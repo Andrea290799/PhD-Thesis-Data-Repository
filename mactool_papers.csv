@@ -1,139 +1,139 @@
-pmid,year,doi,pubtype,Disorder,MeSH_IDs,source,genes_new,cell_origin_manually,Sample_Source,cell_origin,gene_number,study_type
-10644020,2000,10.1034/j.1600-0536.2000.042001018.x,Journal Article,Allergic Contact Dermatitis,D017449,PM,IL12A;IL12B,Macrophage,Skin,Macrophage,2,target
-10673210,2000,10.1164/ajrccm.161.2.9811063,Journal Article,Allergic Asthma,D001249,PM,PTGS2,Macrophage,Sputum;BALF/Lung Biopsy,Macrophage,1,target
-10808183,2000,10.1067/mai.2000.106483,Journal Article,Atopic Dermatitis,D003876,PM,CCL13;CCL11,Macrophage,Skin,Macrophage,2,target
-10843431,2000,NA,Journal Article,Allergic Asthma,D001249,PM,IL10;CCL3,Monocyte,Blood,Monocyte,2,target
-10899765,2000,10.1159/000024399,Journal Article,Allergic Alveolitis,D000542,PM,FASLG;FAS,Macrophage,BALF/Lung Biopsy,Macrophage,2,target
-10992536,2000,10.1136/thorax.55.10.842,Journal Article,Allergic Asthma,D001249,PM,IL12A;IL12B,Macrophage,BALF/Lung Biopsy,Macrophage,2,target
-11003567,2000,10.1006/pupt.2000.0248,Journal Article,Allergic Asthma,D001249,PM,TNF;PDE3A;PDE4A,Monocyte,Blood,Monocyte,3,target
-11031340,2000,10.1067/mai.2000.109824,Journal Article,Allergic Asthma,D001249,PM,IL10;IL12A;IL12B,Macrophage,Sputum,Macrophage,3,target
-11080710,2000,10.1067/mai.2000.110475,Journal Article,Allergic Asthma,D001249,PM,IL10,Monocyte;Macrophage,Blood;BALF/Lung Biopsy,Monocyte;Macrophage,1,target
-11080718,2000,10.1067/mai.2000.109825,Journal Article,Atopic Dermatitis,D003876,PM,IL12A;IL12B,Macrophage,Skin,Macrophage,2,target
-11094642,2000,NA,Journal Article,Immediate Hypersensitivity,D006969,PM,FCER2,Monocyte,Blood,Monocyte,1,target
-11159017,2001,10.1152/ajplung.2001.280.2.L369,Clinical Trial,Allergic Asthma,D001249,PM,FCGR3A;FCGR1A;ITGAM;CD14;HLA-DRA,Macrophage,Sputum,Macrophage,5,target
-11238657,2001,10.4049/jimmunol.166.6.4083,Journal Article,Allergic Asthma,D001249,PM,GUSB;IL6,Macrophage,BALF/Lung Biopsy,Macrophage,2,target
-11251413,2001,10.1034/j.1398-9995.2001.056003254.x,Journal Article,Allergic Rhinitis,D065631,PM,IL4R,Monocyte,Blood,Monocyte,1,target
-11359432,2001,10.1046/j.1365-2222.2001.01068.x,Comparative Study,Allergic Asthma,D001249,PM,CD80;CD86;IL4;IL5,Macrophage,BALF/Lung Biopsy,Macrophage,4,target
-11590389,2001,10.1067/mai.2001.118601,Journal Article,Atopic Dermatitis,D003876,PM,CD14;IL1B;IL18,Monocyte,Blood,Monocyte,3,target
-11591195,2001,10.1046/j.1365-2222.2001.01174.x,Comparative Study,Allergic Asthma,D001249,PM,IL15,Macrophage,Sputum,Macrophage,1,target
-12207111,2002,10.1159/000065626,Comparative Study,Allergic Asthma,D001249,PM,CXCL8,Monocyte,Blood,Monocyte,1,target
-12406333,2002,10.1046/j.1523-1747.2002.00191.x,Journal Article,Atopic Dermatitis;Allergic Rhinitis,D003876;D065631,PM,IL4R;MS4A2;FCER2,Monocyte,Blood,Monocyte,3,target
-12421985,2002,10.4049/jimmunol.169.10.5986,Journal Article,Allergic Asthma,D001249,PM,TNFSF10;HLA-DRB4;TNFRSF10B;TNFRSF10D,Monocyte;Macrophage,Blood;BALF/Lung Biopsy,Monocyte;Macrophage,4,target
-12671054,2003,10.1172/JCI15932,Journal Article,Atopic Dermatitis;Allergic Rhinitis;Allergic Asthma,D003876;D065631;D001249,PM,FCER1A,Monocyte,Blood,Monocyte,1,target
-14510721,2003,10.1034/j.1398-9995.2003.00249.x,Comparative Study,Allergic Asthma,D001249,PM,CD14,Monocyte,Blood,Monocyte,1,target
-14600428,2003,10.1159/000073717,Journal Article,Atopic Dermatitis,D003876,PM,B2M;TAP2;CD36;IFNG,Monocyte,Blood,Monocyte,4,target
-14662196,2003,10.1016/j.ijporl.2003.08.027,Journal Article,Allergic Rhinitis,D065631,PM,FASLG,Macrophage,Adenoids,Macrophage,1,target
-15080804,2004,10.1111/j.1365-2222.2004.1921.x,Journal Article,Atopic Dermatitis,D003876,PM,CD14,Monocyte,Blood,Monocyte,1,target
-15087294,2004,10.1164/rccm.200305-659OC,Clinical Trial,Allergic Asthma,D001249,PM,HDAC1;TMPRSS11D,Macrophage,BALF/Lung Biopsy,Macrophage,2,target
-15131578,2004,10.1016/j.jaci.2004.02.030,Journal Article,Atopic Dermatitis,D003876,PM,CX3CR1,Monocyte,Blood,Monocyte,1,target
-15196278,2004,10.1111/j.1365-2222.2004.01973.x,Journal Article,Allergic Asthma,D001249,PM,IL18,Macrophage,Sputum,Macrophage,1,target
-15291900,2004,10.1111/j.1398-9995.2004.00546.x,Comparative Study,Allergic Rhinitis,D065631,PM,CD14;MS4A2,Monocyte,Blood,Monocyte,2,target
-15297967,2004,10.1016/j.humpath.2004.04.009,Journal Article,Allergic Alveolitis,D000542,PM,GLRX,Macrophage,BALF/Lung Biopsy,Macrophage,1,target
-15370700,2004,10.1080/00015550410034444,Journal Article,Atopic Dermatitis,D003876,PM,CCR2;CCL2,Monocyte,Blood,Monocyte,2,target
-15494534,2004,10.4049/jimmunol.173.9.5810,Journal Article,Atopic Dermatitis,D003876,PM,CCL18,Macrophage,Skin,Macrophage,1,target
-15544837,2005,10.1016/j.regpep.2004.06.024,Journal Article,Allergic Asthma,D001249,PM,NGF,Monocyte,Blood,Monocyte,1,target
-15577828,2004,10.1016/j.jaci.2004.08.034,Journal Article,Allergic Asthma,D001249,PM,PTGER1;PTGER2;PTGER3;PTGER4,Macrophage,Sputum,Macrophage,4,target
-15653992,2005,10.1378/chest.127.1.251,Journal Article,Allergic Alveolitis,D000542,PM,TNFRSF1A;TNFRSF1B,Macrophage,BALF/Lung Biopsy,Macrophage,2,target
-15753634,2005,10.1159/000083400,Comparative Study,Allergic Alveolitis,D000542,PM,TFRC,Macrophage,BALF/Lung Biopsy,Macrophage,1,target
-15940151,2005,10.1016/j.jaci.2005.02.036,Comparative Study,Allergic Rhinitis,D065631,PM,TLR2;TLR4,Monocyte,Cord Blood;Blood,Monocyte,2,target
-15944327,2005,10.4049/jimmunol.174.12.8183,Comparative Study,Allergic Asthma,D001249,PM,TSLP;CCL17;CXCL10,Macrophage,BALF/Lung Biopsy,Macrophage,3,target
-16185275,2005,10.1111/j.0022-202X.2005.23878.x,Journal Article,Atopic Dermatitis,D003876,PM,TNFSF10,Monocyte,Blood,Monocyte,1,target
-16290232,2006,10.1016/j.clim.2005.10.003,Comparative Study,Immediate Hypersensitivity,D006969,PM,TLR2;TLR4;CD14,Monocyte,Blood,Monocyte,3,target
-16516851,2006,10.1016/j.bbrc.2006.02.096,Controlled Clinical Trial,Allergic Asthma,D001249,PM,IL18,Monocyte,Blood,Monocyte,1,target
-16540907,2006,10.1097/01.mlg.0000194692.51979.d1,Comparative Study,Allergic Rhinitis,D065631,PM,HMOX1,Macrophage,Nasal Biopsy,Macrophage,1,target
-17069100,2006,10.1016/S1081-1206(10)60936-2,Journal Article,Allergic Rhinitis,D065631,PM,IL12A;IL12B;IFNG,Monocyte,Blood,Monocyte,3,target
-17073872,2006,10.1111/j.1398-9995.2006.01191.x,Journal Article,Atopic Dermatitis,D003876,PM,SELL;SELP;ITGAL;ITGAM;ITGA5;ITGB2;CD53;CD63;CD151,Monocyte,Blood,Monocyte,9,target
-17083354,2006,10.1111/j.1365-2222.2006.02578.x,Journal Article,Allergic Asthma,D001249,PM,CD2;FCER1A,Monocyte,Blood,Monocyte,2,target
-17177682,2006,10.1111/j.1365-2222.2006.02573.x,Comparative Study,Allergic Rhinitis,D065631,PM,CD163,Monocyte,Blood,Monocyte,1,target
-17371990,2007,10.4049/jimmunol.178.7.4335,Journal Article,Atopic Dermatitis,D003876,PM,CCL23,Macrophage,Skin,Macrophage,1,target
-17531301,2007,10.1016/j.jaci.2007.04.010,Journal Article,Atopic Dermatitis,D003876,PM,FCER1A,Monocyte,Blood,Monocyte,1,target
-17620071,2007,10.1111/j.1398-9995.2007.01444.x,Journal Article,Atopic Dermatitis,D003876,PM,PPARG,Monocyte,Blood,Monocyte,1,target
-17868259,2007,10.1111/j.1365-3083.2007.02010.x,Journal Article,Allergic Rhinitis,D065631,PM,CD80;CD86;IL12A;IL12B;TNF,Monocyte,Blood,Monocyte,5,target
-17951166,2007,NA,Journal Article,Allergic Asthma,D001249,PM,FCGR3A;IL10RA,Macrophage,Sputum,Macrophage,2,target
-17960185,2008,10.1038/sj.jid.5701112,Journal Article,Atopic Dermatitis,D003876,PM,IL6;IL10;TNF;TLR4,Monocyte,Blood,Monocyte,4,target
-18445187,2008,10.1111/j.1398-9995.2008.01721.x,Journal Article,Atopic Dermatitis,D003876,PM,IL6;IL12A;IL12B,Monocyte,Blood,Monocyte,3,target
-18952503,2009,10.1016/j.clim.2008.09.011,Journal Article,Allergic Asthma,D001249,PM,CD163;CD14;FCGR3A,Monocyte,Blood,Monocyte,3,target
-19230460,2009,10.1016/S1081-1206(10)60239-6,Journal Article,Allergic Rhinitis,D065631,PM,PTGDR2,Macrophage,Nasal Biopsy,Macrophage,1,target
-19392987,2009,10.1111/j.1398-9995.2009.02050.x,Journal Article,Atopic Dermatitis,D003876,PM,TLR2,Monocyte,Blood,Monocyte,1,target
-19913588,2010,10.1016/j.humimm.2009.11.005,Journal Article,Allergic Asthma,D001249,PM,HSPD1;PRNP;SERPINH1,Macrophage,BALF/Lung Biopsy,Macrophage,3,untarget
-20134341,2010,10.1097/JOM.0b013e3181d09868,Journal Article,Allergic Rhinitis,D065631,PM,TLR4,Monocyte,Blood,Monocyte,1,target
-20302606,2010,10.1186/1465-9921-11-32,Journal Article,Allergic Asthma,D001249,PM,CD14,Monocyte;Macrophage,Blood;BALF/Lung Biopsy,Monocyte;Macrophage,1,target
-20508067,2011,10.1165/rcmb.2010-0129OC,Journal Article,Allergic Asthma,D001249,WS,P2RX7,Macrophage,BALF/Lung Biopsy,Macrophage,1,target
-21099249,2011,10.2332/allergolint.10-OA-0198,Journal Article,Allergic Rhinitis,D065631,PM,IL10,Monocyte,Blood,Monocyte,1,target
-21167569,2011,10.1016/j.jaci.2010.10.045,Letter,Allergic Asthma,D001249,PM,MRC1;STAB1,Macrophage,BALF/Lung Biopsy,Macrophage,2,target
-21241315,2011,10.1111/j.1398-9995.2010.02524.x,Journal Article,Atopic Dermatitis,D003876,PM,CD9;CD81,Monocyte,Blood,Monocyte,2,target
-21774972,2011,10.1016/j.jaci.2011.05.043,Journal Article,Atopic Dermatitis,D003876,PM,IFNGR2;IL4R,Monocyte,Skin,Macrophage,2,target
-22150093,2012,10.1111/j.1398-9995.2011.02760.x,Journal Article,Atopic Dermatitis,D003876,PM,FCER1G,Monocyte,Blood,Monocyte,1,target
-22906277,2012,10.1177/147323001204000323,Journal Article,Allergic Asthma,D001249,PM,TNFSF9,Monocyte,Blood,Monocyte,1,target
-22981793,2012,10.1016/j.jaci.2012.07.023,Journal Article,Allergic Asthma,D001249,PM,CD163;CCL17,Macrophage,Sputum;BALF/Lung Biopsy,Macrophage,2,target
-23121677,2012,10.1111/j.1365-2249.2012.04665.x,Journal Article,Allergic Asthma,D001249,PM,LGALS1;LGALS3;LGALS9;IL5;IL13,Macrophage,Sputum,Macrophage,5,target
-23343753,2013,10.1159/000343687,Journal Article,Allergic Rhinitis,D065631,PM,MRC1;IL10RA;IL4R;CD14;FCGR3A,Monocyte,Blood,Monocyte,5,target
-24355018,2014,10.1111/cea.12168,Journal Article,Allergic Asthma,D001249,PM,EP300;KAT2B;CREBBP;HDAC1;HDAC2;HDAC3,Monocyte;Macrophage,Blood;Sputum,Monocyte;Macrophage,6,target
-24612750,2014,10.1186/1471-2172-15-12,Journal Article,Allergic Rhinitis,D065631,PM,CD86;HLA-DRA;CCL17,Macrophage,BALF/Lung Biopsy,Macrophage,3,target
-24970562,2014,10.1186/1471-2350-15-73,Journal Article,Allergic Rhinitis,D065631,PM,ENTPD1,Monocyte,Blood,Monocyte,1,target
-25193981,2015,10.1093/infdis/jiu490,Journal Article,Allergic Bronchopulmonary Aspergillosis;Allergic Asthma,D001229;D001249,PM,PPBP;IL10,Monocyte,Blood,Monocyte,2,target
-25457349,2015,10.1164/rccm.201409-1587OC,Journal Article,Allergic Asthma,D001249,PM,CCR2,Monocyte,Blood,Monocyte,1,target
-25824485,2015,10.1002/eji.201445303,Journal Article,Allergic Asthma,D001249,PM,IL3RA,Monocyte,Blood,Monocyte,1,target
-26232643,2015,10.1016/j.bbrc.2015.07.141,Journal Article,Allergic Asthma,D001249,PM,ADORA2A;ADORA2B,Monocyte,Blood,Monocyte,2,target
-26534745,2015,10.2500/aap.2015.36.3901,Journal Article,Atopic Dermatitis,D003876,PM,TLR2;TLR4,Monocyte,Blood,Monocyte,2,target
-26658828,2015,10.1371/journal.pone.0144500,Journal Article,Allergic Asthma,D001249,PM,F2RL1,Monocyte,Blood,Monocyte,1,target
-26815632,2016,10.1164/rccm.201502-0280OC,Journal Article,Allergic Asthma,D001249,PM,TLR7;MIR146B;MIR150;MIR193B;MIR24-1;MIR339;MIR101-1;MIR152;MIR375,Macrophage,BALF/Lung Biopsy,Macrophage,9,untarget
-27001159,2016,10.1016/j.jaci.2016.01.019,Letter,Allergic Asthma,D001249,PM,FSTL1,Macrophage,BALF/Lung Biopsy;Sputum,Macrophage,1,target
-27057098,2016,10.1155/2016/5759496,Journal Article,Allergic Rhinitis;Allergic Asthma,D065631;D001249,PM,IFNL2,Monocyte,Blood,Monocyte,1,target
-27267269,2016,10.1016/j.molimm.2016.05.015,Journal Article,Atopic Dermatitis,D003876,PM,IL1R1;IL1R2,Monocyte,Blood,Monocyte,2,target
-27423452,2016,10.1007/s10565-016-9353-x,Journal Article,Allergic Rhinitis;Allergic Asthma,D065631;D001249,PM,F2R;F2RL1,Monocyte,Blood,Monocyte,2,target
-27459393,2016,10.1016/j.cyto.2016.07.005,Journal Article,Allergic Asthma;Allergic Rhinitis,D001249;D065631,PM,CCL2;IL6;CXCL8,Monocyte,Blood,Monocyte,3,target
-27647044,2017,10.1111/all.13052,Journal Article,Allergic Asthma,D001249,PM,NOS2,Macrophage,BALF/Lung Biopsy,Macrophage,1,target
-28007476,2017,10.1016/j.jaci.2016.11.020,Letter,Allergic Asthma,D001249,PM,IRF5;MRC1;IL10,Macrophage,BALF/Lung Biopsy,Macrophage,3,target
-28922563,2018,10.1111/jcmm.13323,Journal Article,Allergic Asthma,D001249,PM,IL18;IL18BP;IL18R1,Monocyte,Blood,Monocyte,3,target
-29154959,2018,10.1016/j.jaci.2017.10.024,Journal Article,Food Allergy,D005512,PM,HLA-DRA;TNF;IL6;IL1B;CXCL8;IL12A;IL12B;IL10,Monocyte,Blood,Monocyte,8,target
-29203829,2017,10.1038/s41598-017-17307-z,Journal Article,Atopic Dermatitis,D003876,PM,FOXQ1,Monocyte,Blood,Monocyte,1,target
-29212072,2017,10.1159/000481135,Journal Article,Atopic Dermatitis,D003876,PM,TNFRSF1A;TNFRSF1B;TNF,Monocyte,Blood,Monocyte,3,target
-29630100,2018,10.26355/eurrev_201803_14563,Journal Article,Allergic Rhinitis,D065631,PM,IFNL2,Monocyte,Blood,Monocyte,1,target
-30184280,2018,10.1111/cea.13265,Journal Article,Allergic Asthma,D001249,PM,CD68;S100A8;S100A9;MMP10,Monocyte,BALF/Lung Biopsy,Macrophage,4,target
-30246699,2018,10.22034/IJI.2018.39393,Journal Article,Allergic Asthma,D001249,PM,CD163,Monocyte;Macrophage,Sputum;Blood,Monocyte;Macrophage,1,target
-30408806,2019,10.1159/000493803,Journal Article,Allergic Rhinitis,D065631,PM,IL10;MRC1;ARG1;MIR202,Macrophage,Nasal Biopsy,Macrophage,4,target
-30588853,2020,10.1080/02770903.2018.1543435,Journal Article,Allergic Asthma,D001249,PM,MRC1;CRLF2;IL33,Macrophage,Sputum,Macrophage,3,target
-30985951,2019,10.1111/pai.13063,Journal Article,Allergic Asthma,D001249,PM,FCER1A,Monocyte,Blood,Monocyte,1,target
-31090221,2020,10.1111/bjd.18040,Journal Article,Atopic Dermatitis,D003876,PM,ICOSLG,Monocyte,Blood,Monocyte,1,target
-31397016,2019,10.1111/cea.13478,Clinical Trial,Atopic Dermatitis,D003876,PM,CHI3L1,Macrophage,Skin,Macrophage,1,target
-32344053,2020,10.1016/j.jaci.2020.03.041,Journal Article,Atopic Dermatitis,D003876,PM,HBB;CSTA,Macrophage,Skin,Macrophage,2,untarget
-32496163,2020,10.1369/0022155420932103,Journal Article,Allergic Alveolitis,D000542,PM,MAP1LC3B;GTF2H1;ATG4B;ATG5;ATG7,Macrophage,BALF/Lung Biopsy,Macrophage,5,target
-32698761,2020,10.1186/s12865-020-00373-w,Journal Article,Food Allergy,D005512,PM,CLEC12A;CD69;FCER2,Monocyte,Blood,Monocyte,3,untarget
-33076907,2020,10.1186/s12931-020-01544-4,Journal Article,Allergic Asthma,D001249,PM,TFF3;ADGRG1;CLC;BTNL8;OLIG1;GGT5;ADGRG3;LGALS12;TPST1;BPIFB1;CPA3;RAB44;VSTM1;P2RY14;DACH1;FHL3;IL1R2;FFAR3;IL5RA;SHISAL2A;PRR7;TPSAB1;CACNG6;CCL26;ZBTB16;SEMA7A;CCR3;CEBPE;IL18R1;H2AC21;TIAM2;TPSD1;TREML2;B3GNT8;CLEC4G;CCL17;ASB2;BMP6;H2AC7;RHOH;CD69;CD24;CHST15;H2AC19;GFI1B;RIPOR2;SERPINB3;TKTL1;IL1R1;SLPI;RAMP1;IL1RL1;TMEM71;DEFA3;ADAM8;ARAP3;ICAM3;TNFSF14;AGR2;S100P;ASPRV1;MXD1;ADORA2A;SLC25A37;VEGFA;RGL4;MSMB;ANGPTL4;H1-2;PIGR;NFE2;LRG1;WFDC2;IL3RA;CXCR1;FFAR2;TGM3;MMP25;PROK2;CMTM2;PI3;CXCR2;PSCA;KRT23,Macrophage,Sputum,Macrophage,84,untarget
-33479125,2021,10.1126/science.aba6500,Journal Article,Atopic Dermatitis,D003876,PM,LGALS3,Macrophage,Skin,Macrophage,1,untarget
-34129684,2021,10.1111/all.14979,Letter,Atopic Dermatitis,D003876,PM,HRH2,Monocyte,Blood,Monocyte,1,target
-34279540,2021,10.1084/jem.20202345,Journal Article,Atopic Dermatitis,D003876,PM,IL1B;IL23A,Monocyte;Macrophage,Skin;Blood,Monocyte;Macrophage,2,untarget
-34335559,2021,10.3389/fimmu.2021.631450,Journal Article,Allergic Asthma,D001249,PM,TUG1,Monocyte,Blood,Monocyte,1,target
-34358352,2022,10.1111/exd.14442,Journal Article,Atopic Dermatitis,D003876,PM,CD68;STAT1;CD163;MAF,Macrophage,Skin,Macrophage,4,target
-34455626,2022,10.1111/pai.13657,Journal Article,Allergic Asthma,D001249,PM,DUSP1;MAPK3;MAPK1;MAPK14,Monocyte,Blood,Monocyte,4,untarget
-34510493,2022,10.1111/all.15087,Journal Article,Allergic Asthma,D001249,PM,SLAMF7;DYSF;GPR183;CSF3;PI3;CCR7,Macrophage,Sputum,Macrophage,6,untarget
-34769080,2021,10.3390/ijms222111648,Journal Article,Atopic Dermatitis,D003876,PM,CCL18;HRH1;HRH2;HRH4,Monocyte,Blood,Monocyte,4,target
-36467876,2022,10.1155/2022/3439010,Journal Article,Allergic Asthma,D001249,PM,EARS2;ATP2A2;COLGALT1;GART;WNT5A;AK5;ZBTB16;CCL17;ADORA3;CXCR4,NA,Sputum,Macrophage,10,untarget
-38734816,2024,10.1007/s00403-024-02899-0,Letter,Atopic Dermatitis,D003876,PM,GSDMD;PYCARD;IL1B,NA,Skin,Macrophage,3,target
-38517856,2024,10.1093/jleuko/qiad109,Journal Article,Allergic Asthma,D001249,PM,CMIP;IL33;HSPA5;EIF2AK3;ATF4;MRC1;IL4;IL13;CCL26;NFATC1;TGFB1,NA,BALF/Lung Biopsy,Macrophage,11,untarget
-36090987,2022,10.3389/fimmu.2022.930103,Journal Article,Allergic Asthma,D001249,PM,MBD2,NA,BALF/Lung Biopsy,Macrophage,1,target
-35234636,2022,10.18176/jiaci.0797,Journal Article,Allergic Asthma,D001249,PM,MS4A2,NA,Blood,Monocyte,1,target
-35171740,2023,10.1080/02770903.2022.2043361,Journal Article,Allergic Asthma,D001249,PM,CD14;FCGR3A,NA,Blood,Monocyte,2,target
-38863703,2024,10.3389/fimmu.2024.1408772,Journal Article,Allergic Asthma,D001249,PM,BMAL1;CLOCK;NR1D1;NR1D2,NA,Blood,Monocyte,4,target
-37989666,2023,10.1016/j.jdermsci.2023.10.006,Journal Article,Atopic Dermatitis,D003876,PM,CCL3;CCL4;TNF;IL1B;CXCL8,NA,Blood,Monocyte,5,untarget
-38817208,2024,10.1111/all.16121,Journal Article,Atopic Dermatitis,D003876,PM,CD36;IRAK3;MAP3K1;PELI1;TLR2;MAPK1;STAT1;JAK2;TLR4;ADAR;ISG20;IFI44L;IFI44;MX1;XAF1;IFI16;ETS1,NA,Blood,Monocyte,17,untarget
-37312623,2023,10.1111/all.15781,Journal Article,Atopic Dermatitis,D003876,PM,CCL13;CCL18,NA,Skin,Macrophage,2,untarget
-36645854,2023,10.4049/immunohorizons.2200100,Journal Article,Atopic Dermatitis,D003876,PM,TRPV4;NOS2,NA,Skin,Macrophage,2,target
-37800807,2023,10.1097/MD.0000000000034940,Journal Article,Allergic Alveolitis,D000542,PM,SULF1,NA,BALF/Lung Biopsy,Macrophage,1,untarget
-36138182,2022,10.1038/s41590-022-01312-0,Journal Article,Allergic Asthma;Allergic Rhinitis,D001249;D065631,PM,IGKC;VIM;ACTB;ACTG1;IGHG4;IGHA1;COTL1;C1QC;SLPI;C1QB;C1QA;B2M;ITM2B;CD44;SLC2A3;SOCS3;RPS15;IFI6,NA,Nasal Biopsy,Macrophage,18,untarget
-36456559,2022,10.1038/s41467-022-35088-6,Journal Article,Allergic Asthma;Atopic Dermatitis;Allergic Rhinitis,D001249;D003876;D065631,PM,C1QB;C1QC;TGFBI;CSF1R;TMEM176B;LILRB4;SLCO2B1;CD72;ENG;SIGLEC1;TRPM2;GPR68,NA,Nasal Biopsy,Macrophage,12,untarget
-38806324,2024,10.1016/j.jdermsci.2024.04.002,Journal Article,Atopic Dermatitis,D003876,PM,ADGRE1;ITGAM;PPARG;CD80;CD86;ARG1;ADGRE3;ALOX5AP;APOBR;CDA;CEBPD;DGAT2;FPR1;IL1R2;LILRA2;MMP9,NA,Skin;Blood,Monocyte;Macrophage,16,untarget
-37172666,2023,10.1016/j.clim.2023.109639,Journal Article,Allergic Asthma,D001249,PM,CD163;MRC1;ERN1;IL10;CD274;RNF20;IL13;HSPA5;IL4;GATA3;CMIP;STAT3;TGFB1;CCR6;CD1D;IL13RA1;CD1C,NA,BALF/Lung Biopsy,Macrophage,17,target
-38459541,2024,10.1186/s12931-024-02743-z,Journal Article,Allergic Asthma,D001249,PM,CLEC7A,NA,Sputum,Macrophage,1,target
-37783052,2023,10.1016/j.intimp.2023.110997,Journal Article,Allergic Rhinitis,D065631,PM,CD163;MRC1,NA,Nasal Biopsy,Macrophage,2,target
-37005298,2023,10.1248/bpb.b22-00480,Journal Article,Allergic Asthma,D001249,PM,CD14;FCGR3A,NA,Blood,Monocyte,2,target
-36134503,2023,10.1111/exd.14678,Journal Article,Atopic Dermatitis,D003876,PM,CD68;MRC1,NA,Skin,Macrophage,2,untarget
-35681430,2022,10.3390/cells11111736,Journal Article,Allergic Asthma,D001249,PM,CD14;TNFRSF1A;TNFRSF1B,NA,Blood,Monocyte,3,target
-37995836,2024,10.1016/j.ajpath.2023.11.003,Journal Article,Allergic Asthma,D001249,PM,CD68;MRC1,NA,BALF/Lung Biopsy,Macrophage,2,target
-37625825,2023,NA,Letter,Allergic Asthma;Allergic Rhinitis,D001249;D065631,PM,CD14;CD1D,NA,Blood,Monocyte,2,target
-35147263,2022,10.1111/cea.14108,Journal Article,Allergic Asthma;Allergic Rhinitis,D001249;D065631,PM,CD14,NA,Blood,Monocyte,1,untarget
-37428185,2023,10.1084/jem.20221111,Journal Article,Allergic Rhinitis,D065631,PM,CRIP1;RPL17;S100A10;IFITM3;HLA-DPA1;HLA-DPB1;LY6E;HLA-DRA;HLA-DRB1;ISG15;CD74;PLAC8;PSME2;APOBEC3A;HLA-DMA;TUBA1B;HLA-DQA1;CD52;CST3;HLA-DRB5;GBP1;LIPA;IFI6;HLA-DQB1;SAT1;YBX1;ACTB;C1orf162;VAMP5;COTL1;MARCKS;RNASET2;NPC2;AIF1;HLA-DQA2;ABI3;S100A12;S100A8;S100A9;MNDA;VCAN;FOLR3;SELL;RBP7;ALOX5AP;CYP1B1;CSTA;S100A6;HMGB2;PLBD1;TSPO;LYZ;RGS2;ATP5MJ;MGST1;FCN1;RETN;RPL36A;AP1S2;EIF3E;ANXA1;CTSS;ITM2B;PABPC1;ZFP36L2;CCNI;CALM2;CD36;HSD17B11;EVI2B;MS4A6A;LGALS2;EIF3M;TIMP1;C15orf48;CD63;FABP5;FTH1;LITAF;CTSB;CCL2;ACP5;YWHAH;IL1B;SDS;CCL3;GSN;CCL4;SRGN;CTSL;GLUL;GPR183;MARCKSL1;SOD2;CXCR4;SERPINB9;LDHA;GPX4;CD9;NAMPT;SPINT2;HIF1A,NA,Nasal Biopsy,Macrophage,102,untarget
-36929161,2023,10.1111/all.15692,Journal Article,Allergic Asthma,D001249,PM,CD14;FCGR3A;FCGR2A;FCGR1A;CD33;CD68;CSF1R,NA,Blood,Monocyte,7,untarget
-36410530,2023,10.1016/j.jaci.2022.11.009,Journal Article,Atopic Dermatitis,D003876,PM,IL31;CD68;CD163,NA,Skin,Macrophage,3,target
-38297226,2024,10.1186/s12864-023-09795-3,Journal Article,Allergic Asthma,D001249,PM,ACP5;ADAMDEC1;AIF1;APOBEC3A;AQP9;ASGR1;ASGR2;BHLHE41;BST1;C5AR1;CCDC102B;CCL18;CCL22;CCL7;CCR2;CD1D;CD33;CD68;CDA;CFP;CHI3L1;CHST15;CLEC4A;CLEC7A;COL8A2;CREB5;CSF1;CSF3R;CXCL3;CXCL5;CYP27A1;DCSTAMP;GASK1B;FCN1;FES;FOSB;FPR1;FZD2;GPC4;HCK;HK3;HNMT;HPSE;IGSF6;LILRA2;LILRA3;LILRB2;LST1;MARCO;MEFV;MMP9;MNDA;MS4A6A;NCF2;NFE2;NLRP3;NOD2;P2RY13;PADI4;PLA2G7;PPBP;QPCT;RNASE2;RNASE6;S100A12;SLAMF8;SLC12A8;SLC15A3;TLR2;TLR7;TLR8;TNFSF14;TREM2;UPK3A;VNN1;VNN2,NA,BALF/Lung Biopsy,Macrophage,76,untarget
+pmid,year,doi,pubtype,Disorder,MeSH_IDs,source,genes_new,Sample_Source,cell_origin,gene_number,study_type
+10644020,2000,10.1034/j.1600-0536.2000.042001018.x,Journal Article,Allergic Contact Dermatitis,D017449,PM,IL12A;IL12B,Skin,Macrophage,2,target
+10673210,2000,10.1164/ajrccm.161.2.9811063,Journal Article,Allergic Asthma,D001249,PM,PTGS2,Sputum;BALF/Lung Biopsy,Macrophage,1,target
+10808183,2000,10.1067/mai.2000.106483,Journal Article,Atopic Dermatitis,D003876,PM,CCL13;CCL11,Skin,Macrophage,2,target
+10843431,2000,NA,Journal Article,Allergic Asthma,D001249,PM,IL10;CCL3,Blood,Monocyte,2,target
+10899765,2000,10.1159/000024399,Journal Article,Allergic Alveolitis,D000542,PM,FASLG;FAS,BALF/Lung Biopsy,Macrophage,2,target
+10992536,2000,10.1136/thorax.55.10.842,Journal Article,Allergic Asthma,D001249,PM,IL12A;IL12B,BALF/Lung Biopsy,Macrophage,2,target
+11003567,2000,10.1006/pupt.2000.0248,Journal Article,Allergic Asthma,D001249,PM,TNF;PDE3A;PDE4A,Blood,Monocyte,3,target
+11031340,2000,10.1067/mai.2000.109824,Journal Article,Allergic Asthma,D001249,PM,IL10;IL12A;IL12B,Sputum,Macrophage,3,target
+11080710,2000,10.1067/mai.2000.110475,Journal Article,Allergic Asthma,D001249,PM,IL10,Blood;BALF/Lung Biopsy,Monocyte;Macrophage,1,target
+11080718,2000,10.1067/mai.2000.109825,Journal Article,Atopic Dermatitis,D003876,PM,IL12A;IL12B,Skin,Macrophage,2,target
+11094642,2000,NA,Journal Article,Immediate Hypersensitivity,D006969,PM,FCER2,Blood,Monocyte,1,target
+11159017,2001,10.1152/ajplung.2001.280.2.L369,Clinical Trial,Allergic Asthma,D001249,PM,FCGR3A;FCGR1A;ITGAM;CD14;HLA-DRA,Sputum,Macrophage,5,target
+11238657,2001,10.4049/jimmunol.166.6.4083,Journal Article,Allergic Asthma,D001249,PM,GUSB;IL6,BALF/Lung Biopsy,Macrophage,2,target
+11251413,2001,10.1034/j.1398-9995.2001.056003254.x,Journal Article,Allergic Rhinitis,D065631,PM,IL4R,Blood,Monocyte,1,target
+11359432,2001,10.1046/j.1365-2222.2001.01068.x,Comparative Study,Allergic Asthma,D001249,PM,CD80;CD86;IL4;IL5,BALF/Lung Biopsy,Macrophage,4,target
+11590389,2001,10.1067/mai.2001.118601,Journal Article,Atopic Dermatitis,D003876,PM,CD14;IL1B;IL18,Blood,Monocyte,3,target
+11591195,2001,10.1046/j.1365-2222.2001.01174.x,Comparative Study,Allergic Asthma,D001249,PM,IL15,Sputum,Macrophage,1,target
+12207111,2002,10.1159/000065626,Comparative Study,Allergic Asthma,D001249,PM,CXCL8,Blood,Monocyte,1,target
+12406333,2002,10.1046/j.1523-1747.2002.00191.x,Journal Article,Atopic Dermatitis;Allergic Rhinitis,D003876;D065631,PM,IL4R;MS4A2;FCER2,Blood,Monocyte,3,target
+12421985,2002,10.4049/jimmunol.169.10.5986,Journal Article,Allergic Asthma,D001249,PM,TNFSF10;HLA-DRB4;TNFRSF10B;TNFRSF10D,Blood;BALF/Lung Biopsy,Monocyte;Macrophage,4,target
+12671054,2003,10.1172/JCI15932,Journal Article,Atopic Dermatitis;Allergic Rhinitis;Allergic Asthma,D003876;D065631;D001249,PM,FCER1A,Blood,Monocyte,1,target
+14510721,2003,10.1034/j.1398-9995.2003.00249.x,Comparative Study,Allergic Asthma,D001249,PM,CD14,Blood,Monocyte,1,target
+14600428,2003,10.1159/000073717,Journal Article,Atopic Dermatitis,D003876,PM,B2M;TAP2;CD36;IFNG,Blood,Monocyte,4,target
+14662196,2003,10.1016/j.ijporl.2003.08.027,Journal Article,Allergic Rhinitis,D065631,PM,FASLG,Adenoids,Macrophage,1,target
+15080804,2004,10.1111/j.1365-2222.2004.1921.x,Journal Article,Atopic Dermatitis,D003876,PM,CD14,Blood,Monocyte,1,target
+15087294,2004,10.1164/rccm.200305-659OC,Clinical Trial,Allergic Asthma,D001249,PM,HDAC1;TMPRSS11D,BALF/Lung Biopsy,Macrophage,2,target
+15131578,2004,10.1016/j.jaci.2004.02.030,Journal Article,Atopic Dermatitis,D003876,PM,CX3CR1,Blood,Monocyte,1,target
+15196278,2004,10.1111/j.1365-2222.2004.01973.x,Journal Article,Allergic Asthma,D001249,PM,IL18,Sputum,Macrophage,1,target
+15291900,2004,10.1111/j.1398-9995.2004.00546.x,Comparative Study,Allergic Rhinitis,D065631,PM,CD14;MS4A2,Blood,Monocyte,2,target
+15297967,2004,10.1016/j.humpath.2004.04.009,Journal Article,Allergic Alveolitis,D000542,PM,GLRX,BALF/Lung Biopsy,Macrophage,1,target
+15370700,2004,10.1080/00015550410034444,Journal Article,Atopic Dermatitis,D003876,PM,CCR2;CCL2,Blood,Monocyte,2,target
+15494534,2004,10.4049/jimmunol.173.9.5810,Journal Article,Atopic Dermatitis,D003876,PM,CCL18,Skin,Macrophage,1,target
+15544837,2005,10.1016/j.regpep.2004.06.024,Journal Article,Allergic Asthma,D001249,PM,NGF,Blood,Monocyte,1,target
+15577828,2004,10.1016/j.jaci.2004.08.034,Journal Article,Allergic Asthma,D001249,PM,PTGER1;PTGER2;PTGER3;PTGER4,Sputum,Macrophage,4,target
+15653992,2005,10.1378/chest.127.1.251,Journal Article,Allergic Alveolitis,D000542,PM,TNFRSF1A;TNFRSF1B,BALF/Lung Biopsy,Macrophage,2,target
+15753634,2005,10.1159/000083400,Comparative Study,Allergic Alveolitis,D000542,PM,TFRC,BALF/Lung Biopsy,Macrophage,1,target
+15940151,2005,10.1016/j.jaci.2005.02.036,Comparative Study,Allergic Rhinitis,D065631,PM,TLR2;TLR4,Cord Blood;Blood,Monocyte,2,target
+15944327,2005,10.4049/jimmunol.174.12.8183,Comparative Study,Allergic Asthma,D001249,PM,TSLP;CCL17;CXCL10,BALF/Lung Biopsy,Macrophage,3,target
+16185275,2005,10.1111/j.0022-202X.2005.23878.x,Journal Article,Atopic Dermatitis,D003876,PM,TNFSF10,Blood,Monocyte,1,target
+16290232,2006,10.1016/j.clim.2005.10.003,Comparative Study,Immediate Hypersensitivity,D006969,PM,TLR2;TLR4;CD14,Blood,Monocyte,3,target
+16516851,2006,10.1016/j.bbrc.2006.02.096,Controlled Clinical Trial,Allergic Asthma,D001249,PM,IL18,Blood,Monocyte,1,target
+16540907,2006,10.1097/01.mlg.0000194692.51979.d1,Comparative Study,Allergic Rhinitis,D065631,PM,HMOX1,Nasal Biopsy,Macrophage,1,target
+17069100,2006,10.1016/S1081-1206(10)60936-2,Journal Article,Allergic Rhinitis,D065631,PM,IL12A;IL12B;IFNG,Blood,Monocyte,3,target
+17073872,2006,10.1111/j.1398-9995.2006.01191.x,Journal Article,Atopic Dermatitis,D003876,PM,SELL;SELP;ITGAL;ITGAM;ITGA5;ITGB2;CD53;CD63;CD151,Blood,Monocyte,9,target
+17083354,2006,10.1111/j.1365-2222.2006.02578.x,Journal Article,Allergic Asthma,D001249,PM,CD2;FCER1A,Blood,Monocyte,2,target
+17177682,2006,10.1111/j.1365-2222.2006.02573.x,Comparative Study,Allergic Rhinitis,D065631,PM,CD163,Blood,Monocyte,1,target
+17371990,2007,10.4049/jimmunol.178.7.4335,Journal Article,Atopic Dermatitis,D003876,PM,CCL23,Skin,Macrophage,1,target
+17531301,2007,10.1016/j.jaci.2007.04.010,Journal Article,Atopic Dermatitis,D003876,PM,FCER1A,Blood,Monocyte,1,target
+17620071,2007,10.1111/j.1398-9995.2007.01444.x,Journal Article,Atopic Dermatitis,D003876,PM,PPARG,Blood,Monocyte,1,target
+17868259,2007,10.1111/j.1365-3083.2007.02010.x,Journal Article,Allergic Rhinitis,D065631,PM,CD80;CD86;IL12A;IL12B;TNF,Blood,Monocyte,5,target
+17951166,2007,NA,Journal Article,Allergic Asthma,D001249,PM,FCGR3A;IL10RA,Sputum,Macrophage,2,target
+17960185,2008,10.1038/sj.jid.5701112,Journal Article,Atopic Dermatitis,D003876,PM,IL6;IL10;TNF;TLR4,Blood,Monocyte,4,target
+18445187,2008,10.1111/j.1398-9995.2008.01721.x,Journal Article,Atopic Dermatitis,D003876,PM,IL6;IL12A;IL12B,Blood,Monocyte,3,target
+18952503,2009,10.1016/j.clim.2008.09.011,Journal Article,Allergic Asthma,D001249,PM,CD163;CD14;FCGR3A,Blood,Monocyte,3,target
+19230460,2009,10.1016/S1081-1206(10)60239-6,Journal Article,Allergic Rhinitis,D065631,PM,PTGDR2,Nasal Biopsy,Macrophage,1,target
+19392987,2009,10.1111/j.1398-9995.2009.02050.x,Journal Article,Atopic Dermatitis,D003876,PM,TLR2,Blood,Monocyte,1,target
+19913588,2010,10.1016/j.humimm.2009.11.005,Journal Article,Allergic Asthma,D001249,PM,HSPD1;PRNP;SERPINH1,BALF/Lung Biopsy,Macrophage,3,untarget
+20134341,2010,10.1097/JOM.0b013e3181d09868,Journal Article,Allergic Rhinitis,D065631,PM,TLR4,Blood,Monocyte,1,target
+20302606,2010,10.1186/1465-9921-11-32,Journal Article,Allergic Asthma,D001249,PM,CD14,Blood;BALF/Lung Biopsy,Monocyte;Macrophage,1,target
+20508067,2011,10.1165/rcmb.2010-0129OC,Journal Article,Allergic Asthma,D001249,WS,P2RX7,BALF/Lung Biopsy,Macrophage,1,target
+21099249,2011,10.2332/allergolint.10-OA-0198,Journal Article,Allergic Rhinitis,D065631,PM,IL10,Blood,Monocyte,1,target
+21167569,2011,10.1016/j.jaci.2010.10.045,Letter,Allergic Asthma,D001249,PM,MRC1;STAB1,BALF/Lung Biopsy,Macrophage,2,target
+21241315,2011,10.1111/j.1398-9995.2010.02524.x,Journal Article,Atopic Dermatitis,D003876,PM,CD9;CD81,Blood,Monocyte,2,target
+21774972,2011,10.1016/j.jaci.2011.05.043,Journal Article,Atopic Dermatitis,D003876,PM,IFNGR2;IL4R,Skin,Macrophage,2,target
+22150093,2012,10.1111/j.1398-9995.2011.02760.x,Journal Article,Atopic Dermatitis,D003876,PM,FCER1G,Blood,Monocyte,1,target
+22906277,2012,10.1177/147323001204000323,Journal Article,Allergic Asthma,D001249,PM,TNFSF9,Blood,Monocyte,1,target
+22981793,2012,10.1016/j.jaci.2012.07.023,Journal Article,Allergic Asthma,D001249,PM,CD163;CCL17,Sputum;BALF/Lung Biopsy,Macrophage,2,target
+23121677,2012,10.1111/j.1365-2249.2012.04665.x,Journal Article,Allergic Asthma,D001249,PM,LGALS1;LGALS3;LGALS9;IL5;IL13,Sputum,Macrophage,5,target
+23343753,2013,10.1159/000343687,Journal Article,Allergic Rhinitis,D065631,PM,MRC1;IL10RA;IL4R;CD14;FCGR3A,Blood,Monocyte,5,target
+24355018,2014,10.1111/cea.12168,Journal Article,Allergic Asthma,D001249,PM,EP300;KAT2B;CREBBP;HDAC1;HDAC2;HDAC3,Blood;Sputum,Monocyte;Macrophage,6,target
+24612750,2014,10.1186/1471-2172-15-12,Journal Article,Allergic Rhinitis,D065631,PM,CD86;HLA-DRA;CCL17,BALF/Lung Biopsy,Macrophage,3,target
+24970562,2014,10.1186/1471-2350-15-73,Journal Article,Allergic Rhinitis,D065631,PM,ENTPD1,Blood,Monocyte,1,target
+25193981,2015,10.1093/infdis/jiu490,Journal Article,Allergic Bronchopulmonary Aspergillosis;Allergic Asthma,D001229;D001249,PM,PPBP;IL10,Blood,Monocyte,2,target
+25457349,2015,10.1164/rccm.201409-1587OC,Journal Article,Allergic Asthma,D001249,PM,CCR2,Blood,Monocyte,1,target
+25824485,2015,10.1002/eji.201445303,Journal Article,Allergic Asthma,D001249,PM,IL3RA,Blood,Monocyte,1,target
+26232643,2015,10.1016/j.bbrc.2015.07.141,Journal Article,Allergic Asthma,D001249,PM,ADORA2A;ADORA2B,Blood,Monocyte,2,target
+26534745,2015,10.2500/aap.2015.36.3901,Journal Article,Atopic Dermatitis,D003876,PM,TLR2;TLR4,Blood,Monocyte,2,target
+26658828,2015,10.1371/journal.pone.0144500,Journal Article,Allergic Asthma,D001249,PM,F2RL1,Blood,Monocyte,1,target
+26815632,2016,10.1164/rccm.201502-0280OC,Journal Article,Allergic Asthma,D001249,PM,TLR7;MIR146B;MIR150;MIR193B;MIR24-1;MIR339;MIR101-1;MIR152;MIR375,BALF/Lung Biopsy,Macrophage,9,untarget
+27001159,2016,10.1016/j.jaci.2016.01.019,Letter,Allergic Asthma,D001249,PM,FSTL1,BALF/Lung Biopsy;Sputum,Macrophage,1,target
+27057098,2016,10.1155/2016/5759496,Journal Article,Allergic Rhinitis;Allergic Asthma,D065631;D001249,PM,IFNL2,Blood,Monocyte,1,target
+27267269,2016,10.1016/j.molimm.2016.05.015,Journal Article,Atopic Dermatitis,D003876,PM,IL1R1;IL1R2,Blood,Monocyte,2,target
+27423452,2016,10.1007/s10565-016-9353-x,Journal Article,Allergic Rhinitis;Allergic Asthma,D065631;D001249,PM,F2R;F2RL1,Blood,Monocyte,2,target
+27459393,2016,10.1016/j.cyto.2016.07.005,Journal Article,Allergic Asthma;Allergic Rhinitis,D001249;D065631,PM,CCL2;IL6;CXCL8,Blood,Monocyte,3,target
+27647044,2017,10.1111/all.13052,Journal Article,Allergic Asthma,D001249,PM,NOS2,BALF/Lung Biopsy,Macrophage,1,target
+28007476,2017,10.1016/j.jaci.2016.11.020,Letter,Allergic Asthma,D001249,PM,IRF5;MRC1;IL10,BALF/Lung Biopsy,Macrophage,3,target
+28922563,2018,10.1111/jcmm.13323,Journal Article,Allergic Asthma,D001249,PM,IL18;IL18BP;IL18R1,Blood,Monocyte,3,target
+29154959,2018,10.1016/j.jaci.2017.10.024,Journal Article,Food Allergy,D005512,PM,HLA-DRA;TNF;IL6;IL1B;CXCL8;IL12A;IL12B;IL10,Blood,Monocyte,8,target
+29203829,2017,10.1038/s41598-017-17307-z,Journal Article,Atopic Dermatitis,D003876,PM,FOXQ1,Blood,Monocyte,1,target
+29212072,2017,10.1159/000481135,Journal Article,Atopic Dermatitis,D003876,PM,TNFRSF1A;TNFRSF1B;TNF,Blood,Monocyte,3,target
+29630100,2018,10.26355/eurrev_201803_14563,Journal Article,Allergic Rhinitis,D065631,PM,IFNL2,Blood,Monocyte,1,target
+30184280,2018,10.1111/cea.13265,Journal Article,Allergic Asthma,D001249,PM,CD68;S100A8;S100A9;MMP10,BALF/Lung Biopsy,Macrophage,4,target
+30246699,2018,10.22034/IJI.2018.39393,Journal Article,Allergic Asthma,D001249,PM,CD163,Sputum;Blood,Monocyte;Macrophage,1,target
+30408806,2019,10.1159/000493803,Journal Article,Allergic Rhinitis,D065631,PM,IL10;MRC1;ARG1;MIR202,Nasal Biopsy,Macrophage,4,target
+30588853,2020,10.1080/02770903.2018.1543435,Journal Article,Allergic Asthma,D001249,PM,MRC1;CRLF2;IL33,Sputum,Macrophage,3,target
+30985951,2019,10.1111/pai.13063,Journal Article,Allergic Asthma,D001249,PM,FCER1A,Blood,Monocyte,1,target
+31090221,2020,10.1111/bjd.18040,Journal Article,Atopic Dermatitis,D003876,PM,ICOSLG,Blood,Monocyte,1,target
+31397016,2019,10.1111/cea.13478,Clinical Trial,Atopic Dermatitis,D003876,PM,CHI3L1,Skin,Macrophage,1,target
+32344053,2020,10.1016/j.jaci.2020.03.041,Journal Article,Atopic Dermatitis,D003876,PM,HBB;CSTA,Skin,Macrophage,2,untarget
+32496163,2020,10.1369/0022155420932103,Journal Article,Allergic Alveolitis,D000542,PM,MAP1LC3B;GTF2H1;ATG4B;ATG5;ATG7,BALF/Lung Biopsy,Macrophage,5,target
+32698761,2020,10.1186/s12865-020-00373-w,Journal Article,Food Allergy,D005512,PM,CLEC12A;CD69;FCER2,Blood,Monocyte,3,untarget
+33076907,2020,10.1186/s12931-020-01544-4,Journal Article,Allergic Asthma,D001249,PM,TFF3;ADGRG1;CLC;BTNL8;OLIG1;GGT5;ADGRG3;LGALS12;TPST1;BPIFB1;CPA3;RAB44;VSTM1;P2RY14;DACH1;FHL3;IL1R2;FFAR3;IL5RA;SHISAL2A;PRR7;TPSAB1;CACNG6;CCL26;ZBTB16;SEMA7A;CCR3;CEBPE;IL18R1;H2AC21;TIAM2;TPSD1;TREML2;B3GNT8;CLEC4G;CCL17;ASB2;BMP6;H2AC7;RHOH;CD69;CD24;CHST15;H2AC19;GFI1B;RIPOR2;SERPINB3;TKTL1;IL1R1;SLPI;RAMP1;IL1RL1;TMEM71;DEFA3;ADAM8;ARAP3;ICAM3;TNFSF14;AGR2;S100P;ASPRV1;MXD1;ADORA2A;SLC25A37;VEGFA;RGL4;MSMB;ANGPTL4;H1-2;PIGR;NFE2;LRG1;WFDC2;IL3RA;CXCR1;FFAR2;TGM3;MMP25;PROK2;CMTM2;PI3;CXCR2;PSCA;KRT23,Sputum,Macrophage,84,untarget
+33479125,2021,10.1126/science.aba6500,Journal Article,Atopic Dermatitis,D003876,PM,LGALS3,Skin,Macrophage,1,untarget
+34129684,2021,10.1111/all.14979,Letter,Atopic Dermatitis,D003876,PM,HRH2,Blood,Monocyte,1,target
+34279540,2021,10.1084/jem.20202345,Journal Article,Atopic Dermatitis,D003876,PM,IL1B;IL23A,Skin;Blood,Monocyte;Macrophage,2,untarget
+34335559,2021,10.3389/fimmu.2021.631450,Journal Article,Allergic Asthma,D001249,PM,TUG1,Blood,Monocyte,1,target
+34358352,2022,10.1111/exd.14442,Journal Article,Atopic Dermatitis,D003876,PM,CD68;STAT1;CD163;MAF,Skin,Macrophage,4,target
+34455626,2022,10.1111/pai.13657,Journal Article,Allergic Asthma,D001249,PM,DUSP1;MAPK3;MAPK1;MAPK14,Blood,Monocyte,4,untarget
+34510493,2022,10.1111/all.15087,Journal Article,Allergic Asthma,D001249,PM,SLAMF7;DYSF;GPR183;CSF3;PI3;CCR7,Sputum,Macrophage,6,untarget
+34769080,2021,10.3390/ijms222111648,Journal Article,Atopic Dermatitis,D003876,PM,CCL18;HRH1;HRH2;HRH4,Blood,Monocyte,4,target
+36467876,2022,10.1155/2022/3439010,Journal Article,Allergic Asthma,D001249,PM,EARS2;ATP2A2;COLGALT1;GART;WNT5A;AK5;ZBTB16;CCL17;ADORA3;CXCR4,Sputum,Macrophage,10,untarget
+38734816,2024,10.1007/s00403-024-02899-0,Letter,Atopic Dermatitis,D003876,PM,GSDMD;PYCARD;IL1B,Skin,Macrophage,3,target
+38517856,2024,10.1093/jleuko/qiad109,Journal Article,Allergic Asthma,D001249,PM,CMIP;IL33;HSPA5;EIF2AK3;ATF4;MRC1;IL4;IL13;CCL26;NFATC1;TGFB1,BALF/Lung Biopsy,Macrophage,11,untarget
+36090987,2022,10.3389/fimmu.2022.930103,Journal Article,Allergic Asthma,D001249,PM,MBD2,BALF/Lung Biopsy,Macrophage,1,target
+35234636,2022,10.18176/jiaci.0797,Journal Article,Allergic Asthma,D001249,PM,MS4A2,Blood,Monocyte,1,target
+35171740,2023,10.1080/02770903.2022.2043361,Journal Article,Allergic Asthma,D001249,PM,CD14;FCGR3A,Blood,Monocyte,2,target
+38863703,2024,10.3389/fimmu.2024.1408772,Journal Article,Allergic Asthma,D001249,PM,BMAL1;CLOCK;NR1D1;NR1D2,Blood,Monocyte,4,target
+37989666,2023,10.1016/j.jdermsci.2023.10.006,Journal Article,Atopic Dermatitis,D003876,PM,CCL3;CCL4;TNF;IL1B;CXCL8,Blood,Monocyte,5,untarget
+38817208,2024,10.1111/all.16121,Journal Article,Atopic Dermatitis,D003876,PM,CD36;IRAK3;MAP3K1;PELI1;TLR2;MAPK1;STAT1;JAK2;TLR4;ADAR;ISG20;IFI44L;IFI44;MX1;XAF1;IFI16;ETS1,Blood,Monocyte,17,untarget
+37312623,2023,10.1111/all.15781,Journal Article,Atopic Dermatitis,D003876,PM,CCL13;CCL18,Skin,Macrophage,2,untarget
+36645854,2023,10.4049/immunohorizons.2200100,Journal Article,Atopic Dermatitis,D003876,PM,TRPV4;NOS2,Skin,Macrophage,2,target
+37800807,2023,10.1097/MD.0000000000034940,Journal Article,Allergic Alveolitis,D000542,PM,SULF1,BALF/Lung Biopsy,Macrophage,1,untarget
+36138182,2022,10.1038/s41590-022-01312-0,Journal Article,Allergic Asthma;Allergic Rhinitis,D001249;D065631,PM,IGKC;VIM;ACTB;ACTG1;IGHG4;IGHA1;COTL1;C1QC;SLPI;C1QB;C1QA;B2M;ITM2B;CD44;SLC2A3;SOCS3;RPS15;IFI6,Nasal Biopsy,Macrophage,18,untarget
+36456559,2022,10.1038/s41467-022-35088-6,Journal Article,Allergic Asthma;Atopic Dermatitis;Allergic Rhinitis,D001249;D003876;D065631,PM,C1QB;C1QC;TGFBI;CSF1R;TMEM176B;LILRB4;SLCO2B1;CD72;ENG;SIGLEC1;TRPM2;GPR68,Nasal Biopsy,Macrophage,12,untarget
+38806324,2024,10.1016/j.jdermsci.2024.04.002,Journal Article,Atopic Dermatitis,D003876,PM,ADGRE1;ITGAM;PPARG;CD80;CD86;ARG1;ADGRE3;ALOX5AP;APOBR;CDA;CEBPD;DGAT2;FPR1;IL1R2;LILRA2;MMP9,Skin;Blood,Monocyte;Macrophage,16,untarget
+37172666,2023,10.1016/j.clim.2023.109639,Journal Article,Allergic Asthma,D001249,PM,CD163;MRC1;ERN1;IL10;CD274;RNF20;IL13;HSPA5;IL4;GATA3;CMIP;STAT3;TGFB1;CCR6;CD1D;IL13RA1;CD1C,BALF/Lung Biopsy,Macrophage,17,target
+38459541,2024,10.1186/s12931-024-02743-z,Journal Article,Allergic Asthma,D001249,PM,CLEC7A,Sputum,Macrophage,1,target
+37783052,2023,10.1016/j.intimp.2023.110997,Journal Article,Allergic Rhinitis,D065631,PM,CD163;MRC1,Nasal Biopsy,Macrophage,2,target
+37005298,2023,10.1248/bpb.b22-00480,Journal Article,Allergic Asthma,D001249,PM,CD14;FCGR3A,Blood,Monocyte,2,target
+36134503,2023,10.1111/exd.14678,Journal Article,Atopic Dermatitis,D003876,PM,CD68;MRC1,Skin,Macrophage,2,untarget
+35681430,2022,10.3390/cells11111736,Journal Article,Allergic Asthma,D001249,PM,CD14;TNFRSF1A;TNFRSF1B,Blood,Monocyte,3,target
+37995836,2024,10.1016/j.ajpath.2023.11.003,Journal Article,Allergic Asthma,D001249,PM,CD68;MRC1,BALF/Lung Biopsy,Macrophage,2,target
+37625825,2023,NA,Letter,Allergic Asthma;Allergic Rhinitis,D001249;D065631,PM,CD14;CD1D,Blood,Monocyte,2,target
+35147263,2022,10.1111/cea.14108,Journal Article,Allergic Asthma;Allergic Rhinitis,D001249;D065631,PM,CD14,Blood,Monocyte,1,untarget
+37428185,2023,10.1084/jem.20221111,Journal Article,Allergic Rhinitis,D065631,PM,CRIP1;RPL17;S100A10;IFITM3;HLA-DPA1;HLA-DPB1;LY6E;HLA-DRA;HLA-DRB1;ISG15;CD74;PLAC8;PSME2;APOBEC3A;HLA-DMA;TUBA1B;HLA-DQA1;CD52;CST3;HLA-DRB5;GBP1;LIPA;IFI6;HLA-DQB1;SAT1;YBX1;ACTB;C1orf162;VAMP5;COTL1;MARCKS;RNASET2;NPC2;AIF1;HLA-DQA2;ABI3;S100A12;S100A8;S100A9;MNDA;VCAN;FOLR3;SELL;RBP7;ALOX5AP;CYP1B1;CSTA;S100A6;HMGB2;PLBD1;TSPO;LYZ;RGS2;ATP5MJ;MGST1;FCN1;RETN;RPL36A;AP1S2;EIF3E;ANXA1;CTSS;ITM2B;PABPC1;ZFP36L2;CCNI;CALM2;CD36;HSD17B11;EVI2B;MS4A6A;LGALS2;EIF3M;TIMP1;C15orf48;CD63;FABP5;FTH1;LITAF;CTSB;CCL2;ACP5;YWHAH;IL1B;SDS;CCL3;GSN;CCL4;SRGN;CTSL;GLUL;GPR183;MARCKSL1;SOD2;CXCR4;SERPINB9;LDHA;GPX4;CD9;NAMPT;SPINT2;HIF1A,Nasal Biopsy,Macrophage,102,untarget
+36929161,2023,10.1111/all.15692,Journal Article,Allergic Asthma,D001249,PM,CD14;FCGR3A;FCGR2A;FCGR1A;CD33;CD68;CSF1R,Blood,Monocyte,7,untarget
+36410530,2023,10.1016/j.jaci.2022.11.009,Journal Article,Atopic Dermatitis,D003876,PM,IL31;CD68;CD163,Skin,Macrophage,3,target
+38297226,2024,10.1186/s12864-023-09795-3,Journal Article,Allergic Asthma,D001249,PM,ACP5;ADAMDEC1;AIF1;APOBEC3A;AQP9;ASGR1;ASGR2;BHLHE41;BST1;C5AR1;CCDC102B;CCL18;CCL22;CCL7;CCR2;CD1D;CD33;CD68;CDA;CFP;CHI3L1;CHST15;CLEC4A;CLEC7A;COL8A2;CREB5;CSF1;CSF3R;CXCL3;CXCL5;CYP27A1;DCSTAMP;GASK1B;FCN1;FES;FOSB;FPR1;FZD2;GPC4;HCK;HK3;HNMT;HPSE;IGSF6;LILRA2;LILRA3;LILRB2;LST1;MARCO;MEFV;MMP9;MNDA;MS4A6A;NCF2;NFE2;NLRP3;NOD2;P2RY13;PADI4;PLA2G7;PPBP;QPCT;RNASE2;RNASE6;S100A12;SLAMF8;SLC12A8;SLC15A3;TLR2;TLR7;TLR8;TNFSF14;TREM2;UPK3A;VNN1;VNN2,BALF/Lung Biopsy,Macrophage,76,untarget
