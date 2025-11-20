@@ -1,4 +1,4 @@
-PMID,Year,DOI,Publication type,Disorder,MeSH IDs,Abbreviation,Database,Source,Sample source,Cell type,Study Type,Molecule number,Molecules
+PMID,Year,DOI,Publication type,Disorder,MeSH IDs,Abbreviation,Database,Source,Sample source,Cell type,Study type,Molecule number,Molecules
 10644020,2000,10.1034/j.1600-0536.2000.042001018.x,Journal Article,Allergic Contact Dermatitis,D017449,ACD,NA,PM,Skin,Macrophage,target,2,IL12A;IL12B
 10673210,2000,10.1164/ajrccm.161.2.9811063,Journal Article,Allergic Asthma,D001249,AAsthma,NA,PM,Sputum;BALF/Lung Biopsy,Macrophage,target,1,PTGS2
 10808183,2000,10.1067/mai.2000.106483,Journal Article,Atopic Dermatitis,D003876,AD,NA,PM,Skin,Macrophage,target,2,CCL13;CCL11
