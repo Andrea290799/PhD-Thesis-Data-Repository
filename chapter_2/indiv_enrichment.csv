@@ -1,104 +1,104 @@
 Cluster,ONTOLOGY,ID,Description,GeneRatio,BgRatio,RichFactor,FoldEnrichment,zScore,pvalue,p.adjust,qvalue,geneID,Count,comp,parentTerm
-mirnas,BP,GO:1903587,regulation of blood vessel endothelial cell proliferation involved in sprouting angiogenesis,3/12,48/20820,0.06,108.44,17.9,0,0,0,MIR10B/MIR483/MIR149,3,s_m,regulation of vasculature development
-mirnas,BP,GO:0002043,blood vessel endothelial cell proliferation involved in sprouting angiogenesis,3/12,55/20820,0.05,94.64,16.7,0,0,0,MIR10B/MIR483/MIR149,3,s_m,regulation of vasculature development
-mirnas,BP,GO:0090049,regulation of cell migration involved in sprouting angiogenesis,3/12,81/20820,0.04,64.26,13.7,0,0,0,MIR10B/MIR483/MIR149,3,s_m,endothelial cell migration
-mirnas,BP,GO:0002042,cell migration involved in sprouting angiogenesis,3/12,97/20820,0.03,53.66,12.48,0,0,0,MIR10B/MIR483/MIR149,3,s_m,endothelial cell migration
-mirnas,BP,GO:0035278,miRNA-mediated gene silencing by inhibition of translation,3/12,99/20820,0.03,52.58,12.35,0,0,0,MIR10B/MIR144/MIR483,3,s_m,regulation of translation
-mirnas,BP,GO:0035279,miRNA-mediated gene silencing by mRNA destabilization,3/12,103/20820,0.03,50.53,12.1,0,0,0,MIR203A/MIR483/MIR149,3,s_m,regulation of translation
-mirnas,MF,GO:1903231,mRNA base-pairing translational repressor activity,8/12,298/20820,0.03,46.58,19.03,0,0,0,MIR10B/MIR451A/MIR144/MIR203A/MIR483/MIR193B/MIR149/MIR935,8,s_m,regulation of translation
-mirnas,MF,GO:0030371,translation repressor activity,8/12,329/20820,0.02,42.19,18.08,0,0,0,MIR10B/MIR451A/MIR144/MIR203A/MIR483/MIR193B/MIR149/MIR935,8,s_m,regulation of translation
-mirnas,MF,GO:0045182,translation regulator activity,8/12,356/20820,0.02,38.99,17.36,0,0,0,MIR10B/MIR451A/MIR144/MIR203A/MIR483/MIR193B/MIR149/MIR935,8,s_m,regulation of translation
-mirnas,BP,GO:0043535,regulation of blood vessel endothelial cell migration,3/12,157/20820,0.02,33.15,9.71,0,0,0,MIR10B/MIR483/MIR149,3,s_m,endothelial cell migration
-mirnas,MF,GO:0003730,mRNA 3'-UTR binding,5/12,262/20820,0.02,33.11,12.56,0,0,0,MIR10B/MIR451A/MIR144/MIR483/MIR193B,5,s_m,regulation of translation
-mirnas,BP,GO:0001936,regulation of endothelial cell proliferation,3/12,180/20820,0.02,28.92,9.03,0,0,0,MIR10B/MIR483/MIR149,3,s_m,epithelial cell proliferation
-mirnas,BP,GO:0043534,blood vessel endothelial cell migration,3/12,183/20820,0.02,28.44,8.95,0,0,0,MIR10B/MIR483/MIR149,3,s_m,endothelial cell migration
-mirnas,BP,GO:0061157,mRNA destabilization,3/12,194/20820,0.02,26.83,8.68,0,0,0,MIR203A/MIR483/MIR149,3,s_m,regulation of translation
-mirnas,BP,GO:0002040,sprouting angiogenesis,3/12,197/20820,0.02,26.42,8.61,0,0,0,MIR10B/MIR483/MIR149,3,s_m,regulation of vasculature development
-mirnas,BP,GO:0050779,RNA destabilization,3/12,198/20820,0.02,26.29,8.59,0,0,0,MIR203A/MIR483/MIR149,3,s_m,regulation of translation
-mirnas,BP,GO:0061014,positive regulation of mRNA catabolic process,3/12,199/20820,0.02,26.16,8.56,0,0,0,MIR203A/MIR483/MIR149,3,s_m,regulation of translation
-mirnas,BP,GO:0001935,endothelial cell proliferation,3/12,203/20820,0.01,25.64,8.47,0,0,0,MIR10B/MIR483/MIR149,3,s_m,epithelial cell proliferation
-mirnas,BP,GO:0017148,negative regulation of translation,3/12,213/20820,0.01,24.44,8.26,0,0,0,MIR10B/MIR144/MIR483,3,s_m,regulation of translation
-mirnas,BP,GO:1903313,positive regulation of mRNA metabolic process,3/12,234/20820,0.01,22.24,7.85,0,0,0,MIR203A/MIR483/MIR149,3,s_m,regulation of translation
-mirnas,BP,GO:0010594,regulation of endothelial cell migration,3/12,236/20820,0.01,22.06,7.81,0,0,0,MIR10B/MIR483/MIR149,3,s_m,endothelial cell migration
-mirnas,CC,GO:0016442,RISC complex,5/12,412/20820,0.01,21.06,9.87,0,0,0,MIR10B/MIR144/MIR203A/MIR149/MIR643,5,s_m,regulation of translation
-mirnas,CC,GO:0031332,RNAi effector complex,5/12,413/20820,0.01,21,9.86,0,0,0,MIR10B/MIR144/MIR203A/MIR149/MIR643,5,s_m,regulation of translation
-mirnas,BP,GO:0043488,regulation of mRNA stability,3/12,274/20820,0.01,19,7.2,0,0,0,MIR203A/MIR483/MIR149,3,s_m,regulation of translation
-mirnas,BP,GO:0043487,regulation of RNA stability,3/12,287/20820,0.01,18.14,7.02,0,0,0,MIR203A/MIR483/MIR149,3,s_m,regulation of translation
-mirnas,BP,GO:0061013,regulation of mRNA catabolic process,3/12,290/20820,0.01,17.95,6.98,0,0,0,MIR203A/MIR483/MIR149,3,s_m,regulation of translation
-mirnas,BP,GO:0043542,endothelial cell migration,3/12,293/20820,0.01,17.76,6.94,0,0,0,MIR10B/MIR483/MIR149,3,s_m,endothelial cell migration
-mirnas,BP,GO:0006402,mRNA catabolic process,3/12,357/20820,0.01,14.58,6.22,0,0.01,0,MIR203A/MIR483/MIR149,3,s_m,regulation of translation
-mirnas,BP,GO:0030336,negative regulation of cell migration,3/12,388/20820,0.01,13.41,5.93,0,0.01,0,MIR451A/MIR483/MIR149,3,s_m,regulation of transport
-mirnas,BP,GO:0001818,negative regulation of cytokine production,3/12,389/20820,0.01,13.38,5.92,0,0.01,0,MIR203A/MIR149/MIR935,3,s_m,regulation of cytokine production
-mirnas,BP,GO:2000146,negative regulation of cell motility,3/12,403/20820,0.01,12.92,5.8,0,0.01,0,MIR451A/MIR483/MIR149,3,s_m,regulation of transport
-mirnas,BP,GO:1903311,regulation of mRNA metabolic process,3/12,404/20820,0.01,12.88,5.79,0,0.01,0,MIR203A/MIR483/MIR149,3,s_m,regulation of translation
-mirnas,BP,GO:0050678,regulation of epithelial cell proliferation,3/12,410/20820,0.01,12.7,5.74,0,0.01,0,MIR10B/MIR483/MIR149,3,s_m,epithelial cell proliferation
-mirnas,BP,GO:0006401,RNA catabolic process,3/12,415/20820,0.01,12.54,5.7,0,0.01,0,MIR203A/MIR483/MIR149,3,s_m,regulation of translation
-mirnas,BP,GO:0040013,negative regulation of locomotion,3/12,421/20820,0.01,12.36,5.66,0,0.01,0,MIR451A/MIR483/MIR149,3,s_m,regulation of transport
-mirnas,BP,GO:0141188,nucleic acid catabolic process,3/12,444/20820,0.01,11.72,5.48,0,0.01,0.01,MIR203A/MIR483/MIR149,3,s_m,regulation of translation
-mirnas,BP,GO:0006417,regulation of translation,3/12,451/20820,0.01,11.54,5.43,0,0.01,0.01,MIR10B/MIR144/MIR483,3,s_m,regulation of translation
-mirnas,BP,GO:0050673,epithelial cell proliferation,3/12,488/20820,0.01,10.67,5.19,0,0.01,0.01,MIR10B/MIR483/MIR149,3,s_m,epithelial cell proliferation
-prot,MF,GO:0031720,haptoglobin binding,3/26,10/20820,0.3,240.23,26.76,0,0,0,HBA1/HBB/HBD,3,s_c,hemoglobin complex
-prot,CC,GO:0031838,haptoglobin-hemoglobin complex,3/26,11/20820,0.27,218.39,25.5,0,0,0,HBA1/HBB/HBD,3,s_c,hemoglobin complex
-prot,CC,GO:0005833,hemoglobin complex,3/26,12/20820,0.25,200.19,24.41,0,0,0,HBA1/HBB/HBD,3,s_c,hemoglobin complex
-prot,MF,GO:0005344,oxygen carrier activity,3/26,14/20820,0.21,171.59,22.58,0,0,0,HBA1/HBB/HBD,3,s_c,molecular carrier activity
-prot,BP,GO:0015670,carbon dioxide transport,3/26,15/20820,0.2,160.15,21.8,0,0,0,HBA1/HBB/HBD,3,s_c,one-carbon compound transport
-prot,BP,GO:0015671,oxygen transport,3/26,15/20820,0.2,160.15,21.8,0,0,0,HBA1/HBB/HBD,3,s_c,gas transport
-prot,BP,GO:0015669,gas transport,3/26,22/20820,0.14,109.2,17.95,0,0,0,HBA1/HBB/HBD,3,s_c,gas transport
-prot,BP,GO:0019755,one-carbon compound transport,3/26,26/20820,0.12,92.4,16.49,0,0,0,HBA1/HBB/HBD,3,s_c,one-carbon compound transport
-prot,BP,GO:0042744,hydrogen peroxide catabolic process,3/26,31/20820,0.1,77.49,15.07,0,0,0,HBA1/HBB/HBD,3,s_c,antioxidant activity
-prot,MF,GO:0019825,oxygen binding,3/26,34/20820,0.09,70.66,14.37,0,0,0,HBA1/HBB/HBD,3,s_c,oxygen binding
-prot,BP,GO:0042743,hydrogen peroxide metabolic process,3/26,55/20820,0.05,43.68,11.21,0,0,0,HBA1/HBB/HBD,3,s_c,antioxidant activity
-mirnas,MF,GO:1903231,mRNA base-pairing translational repressor activity,16/26,298/20820,0.05,42.99,25.82,0,0,0,MIR144/MIR6869/MIR3173/MIR363/MIR494/MIR92A1/MIR212/MIR30C2/MIR506/MIR483/MIR143/MIR135A1/MIR323A/MIR92B/MIR3619/MIR33B,16,s_c,regulation of translation
-prot,MF,GO:0004601,peroxidase activity,3/26,57/20820,0.05,42.15,11,0,0,0,HBA1/HBB/HBD,3,s_c,antioxidant activity
-prot,MF,GO:0016684,oxidoreductase activity acting on peroxide as acceptor,3/26,59/20820,0.05,40.72,10.8,0,0,0,HBA1/HBB/HBD,3,s_c,antioxidant activity
-mirnas,BP,GO:0043537,negative regulation of blood vessel endothelial cell migration,4/26,82/20820,0.05,39.06,12.21,0,0,0,MIR494/MIR92A1/MIR212/MIR483,4,s_c,endothelial cell migration
-mirnas,MF,GO:0030371,translation repressor activity,16/26,329/20820,0.05,38.94,24.53,0,0,0,MIR144/MIR6869/MIR3173/MIR363/MIR494/MIR92A1/MIR212/MIR30C2/MIR506/MIR483/MIR143/MIR135A1/MIR323A/MIR92B/MIR3619/MIR33B,16,s_c,regulation of translation
-mirnas,MF,GO:0045182,translation regulator activity,16/26,356/20820,0.04,35.99,23.55,0,0,0,MIR144/MIR6869/MIR3173/MIR363/MIR494/MIR92A1/MIR212/MIR30C2/MIR506/MIR483/MIR143/MIR135A1/MIR323A/MIR92B/MIR3619/MIR33B,16,s_c,regulation of translation
-mirnas,MF,GO:0003730,mRNA 3'-UTR binding,11/26,262/20820,0.04,33.62,18.79,0,0,0,MIR144/MIR3173/MIR92A1/MIR212/MIR506/MIR483/MIR143/MIR323A/MIR92B/MIR3619/MIR33B,11,s_c,regulation of translation
-mirnas,BP,GO:0035278,miRNA-mediated gene silencing by inhibition of translation,4/26,99/20820,0.04,32.35,11.06,0,0,0,MIR144/MIR92A1/MIR212/MIR483,4,s_c,regulation of translation
-mirnas,BP,GO:0010596,negative regulation of endothelial cell migration,4/26,101/20820,0.04,31.71,10.94,0,0,0,MIR494/MIR92A1/MIR212/MIR483,4,s_c,endothelial cell migration
-prot,MF,GO:0016209,antioxidant activity,3/26,86/20820,0.03,27.93,8.85,0,0.01,0.01,HBA1/HBB/HBD,3,s_c,antioxidant activity
-mirnas,CC,GO:0016442,RISC complex,14/26,412/20820,0.03,27.21,19,0,0,0,MIR144/MIR744/MIR770/MIR494/MIR92A1/MIR212/MIR1197/MIR30C2/MIR143/MIR135A1/MIR323A/MIR181B2/MIR433/MIR33B,14,s_c,regulation of translation
-mirnas,CC,GO:0031332,RNAi effector complex,14/26,413/20820,0.03,27.14,18.98,0,0,0,MIR144/MIR744/MIR770/MIR494/MIR92A1/MIR212/MIR1197/MIR30C2/MIR143/MIR135A1/MIR323A/MIR181B2/MIR433/MIR33B,14,s_c,regulation of translation
-mirnas,BP,GO:0043535,regulation of blood vessel endothelial cell migration,5/26,157/20820,0.03,25.5,10.9,0,0,0,MIR494/MIR92A1/MIR212/MIR483/MIR143,5,s_c,endothelial cell migration
-prot,BP,GO:0098869,cellular oxidant detoxification,3/26,99/20820,0.03,24.27,8.2,0,0.01,0.01,HBA1/HBB/HBD,3,s_c,response to toxic substance
-prot,CC,GO:0072562,blood microparticle,4/26,145/20820,0.03,22.09,9.01,0,0,0,EIF2A/HBA1/HBB/HBD,4,s_c,blood microparticle
-mirnas,BP,GO:0043534,blood vessel endothelial cell migration,5/26,183/20820,0.03,21.88,10.03,0,0,0,MIR494/MIR92A1/MIR212/MIR483/MIR143,5,s_c,endothelial cell migration
-prot,CC,GO:0022626,cytosolic ribosome,3/26,118/20820,0.03,20.36,7.46,0,0.02,0.01,EIF2A/RPL10/RPL13,3,s_c,ribosomal subunit
-mirnas,BP,GO:2000181,negative regulation of blood vessel morphogenesis,4/26,162/20820,0.02,19.77,8.48,0,0,0,MIR494/MIR92A1/MIR212/MIR143,4,s_c,regulation of vasculature development
-mirnas,BP,GO:1901343,negative regulation of vasculature development,4/26,164/20820,0.02,19.53,8.42,0,0,0,MIR494/MIR92A1/MIR212/MIR143,4,s_c,regulation of vasculature development
-prot,BP,GO:1990748,cellular detoxification,3/26,125/20820,0.02,19.22,7.22,0,0.02,0.01,HBA1/HBB/HBD,3,s_c,response to toxic substance
-prot,BP,GO:0097237,cellular response to toxic substance,3/26,135/20820,0.02,17.79,6.92,0,0.02,0.02,HBA1/HBB/HBD,3,s_c,response to toxic substance
-mirnas,BP,GO:0010594,regulation of endothelial cell migration,5/26,236/20820,0.02,16.97,8.72,0,0,0,MIR494/MIR92A1/MIR212/MIR483/MIR143,5,s_c,endothelial cell migration
-prot,MF,GO:0020037,heme binding,3/26,142/20820,0.02,16.92,6.73,0,0.03,0.02,HBA1/HBB/HBD,3,s_c,tetrapyrrole binding
-prot,BP,GO:0072593,reactive oxygen species metabolic process,5/26,245/20820,0.02,16.34,8.54,0,0,0,HBA1/HBB/HBD/PON3/VDAC1,5,s_c,antioxidant activity
-prot,MF,GO:0140104,molecular carrier activity,5/26,249/20820,0.02,16.08,8.46,0,0,0,DDX24/DHX15/HBA1/HBB/HBD,5,s_c,molecular carrier activity
-prot,MF,GO:0046906,tetrapyrrole binding,3/26,152/20820,0.02,15.8,6.48,0,0.03,0.02,HBA1/HBB/HBD,3,s_c,tetrapyrrole binding
-mirnas,BP,GO:0017148,negative regulation of translation,4/26,213/20820,0.02,15.04,7.28,0,0,0,MIR144/MIR92A1/MIR212/MIR483,4,s_c,regulation of translation
-mirnas,BP,GO:0016525,negative regulation of angiogenesis,3/26,160/20820,0.02,15.01,6.29,0,0.01,0.01,MIR92A1/MIR212/MIR143,3,s_c,regulation of vasculature development
-prot,BP,GO:0009636,response to toxic substance,5/26,272/20820,0.02,14.72,8.05,0,0,0,DHX15/HBA1/HBB/HBD/PON3,5,s_c,response to toxic substance
-mirnas,BP,GO:0030336,negative regulation of cell migration,7/26,388/20820,0.02,14.45,9.45,0,0,0,MIR3173/MIR494/MIR92A1/MIR212/MIR30C2/MIR483/MIR92B,7,s_c,regulation of transport
-prot,BP,GO:0098754,detoxification,3/26,168/20820,0.02,14.3,6.12,0,0.04,0.03,HBA1/HBB/HBD,3,s_c,response to toxic substance
-prot,BP,GO:0002181,cytoplasmic translation,3/26,169/20820,0.02,14.21,6.1,0,0.04,0.03,EIF3H/RPL10/RPL13,3,s_c,regulation of translation
-mirnas,BP,GO:2000146,negative regulation of cell motility,7/26,403/20820,0.02,13.91,9.25,0,0,0,MIR3173/MIR494/MIR92A1/MIR212/MIR30C2/MIR483/MIR92B,7,s_c,regulation of transport
-mirnas,BP,GO:0043542,endothelial cell migration,5/26,293/20820,0.02,13.67,7.72,0,0,0,MIR494/MIR92A1/MIR212/MIR483/MIR143,5,s_c,endothelial cell migration
-mirnas,BP,GO:0032635,interleukin-6 production,3/26,177/20820,0.02,13.57,5.94,0,0.01,0.01,MIR144/MIR6869/MIR92A1,3,s_c,regulation of cytokine production
-mirnas,BP,GO:0032675,regulation of interleukin-6 production,3/26,177/20820,0.02,13.57,5.94,0,0.01,0.01,MIR144/MIR6869/MIR92A1,3,s_c,regulation of cytokine production
-mirnas,BP,GO:0040013,negative regulation of locomotion,7/26,421/20820,0.02,13.31,9.03,0,0,0,MIR3173/MIR494/MIR92A1/MIR212/MIR30C2/MIR483/MIR92B,7,s_c,regulation of transport
-prot,CC,GO:0044391,ribosomal subunit,3/26,186/20820,0.02,12.92,5.77,0,0.04,0.03,EIF2A/RPL10/RPL13,3,s_c,ribosomal subunit
-prot,BP,GO:0006006,glucose metabolic process,3/26,193/20820,0.02,12.45,5.65,0,0.04,0.03,PFKP/RBP4/WDR5,3,s_c,glucose metabolic process
-mirnas,BP,GO:0002040,sprouting angiogenesis,3/26,197/20820,0.02,12.19,5.58,0,0.02,0.01,MIR494/MIR92A1/MIR483,3,s_c,regulation of vasculature development
-mirnas,BP,GO:0050728,negative regulation of inflammatory response,3/26,207/20820,0.01,11.61,5.42,0,0.02,0.01,MIR6869/MIR92A1/MIR30C2,3,s_c,regulation of inflammatory response
-mirnas,BP,GO:1901342,regulation of vasculature development,4/26,372/20820,0.01,8.61,5.24,0,0.01,0.01,MIR494/MIR92A1/MIR212/MIR143,4,s_c,regulation of vasculature development
-mirnas,BP,GO:0051051,negative regulation of transport,5/26,467/20820,0.01,8.57,5.85,0,0,0,MIR144/MIR212/MIR143/MIR92B/MIR33B,5,s_c,regulation of transport
-mirnas,BP,GO:0031348,negative regulation of defense response,3/26,308/20820,0.01,7.8,4.25,0.01,0.04,0.02,MIR6869/MIR92A1/MIR30C2,3,s_c,regulation of inflammatory response
-mirnas,BP,GO:0050727,regulation of inflammatory response,4/26,442/20820,0.01,7.25,4.69,0,0.02,0.01,MIR144/MIR6869/MIR92A1/MIR30C2,4,s_c,regulation of inflammatory response
-mirnas,BP,GO:0006417,regulation of translation,4/26,451/20820,0.01,7.1,4.63,0,0.02,0.01,MIR144/MIR92A1/MIR212/MIR483,4,s_c,regulation of translation
-mirnas,CC,GO:0016442,RISC complex,5/12,412/20820,0.01,21.06,9.87,0,0,0,MIR30C2/MIR770/MIR541/MIR494/MIR1197,5,m_c,regulation of translation
-mirnas,CC,GO:0031332,RNAi effector complex,5/12,413/20820,0.01,21,9.86,0,0,0,MIR30C2/MIR770/MIR541/MIR494/MIR1197,5,m_c,regulation of translation
-mirnas,MF,GO:1903231,mRNA base-pairing translational repressor activity,3/12,298/20820,0.01,17.47,6.88,0,0.01,0.01,MIR30C2/MIR494/MIR3173,3,m_c,regulation of translation
-mirnas,MF,GO:0030371,translation repressor activity,3/12,329/20820,0.01,15.82,6.51,0,0.01,0.01,MIR30C2/MIR494/MIR3173,3,m_c,regulation of translation
-mirnas,MF,GO:0045182,translation regulator activity,3/12,356/20820,0.01,14.62,6.22,0,0.01,0.01,MIR30C2/MIR494/MIR3173,3,m_c,regulation of translation
-mirnas,BP,GO:0030336,negative regulation of cell migration,3/12,388/20820,0.01,13.41,5.93,0,0.01,0.01,MIR30C2/MIR494/MIR3173,3,m_c,regulation of transport
-mirnas,BP,GO:2000146,negative regulation of cell motility,3/12,403/20820,0.01,12.92,5.8,0,0.01,0.01,MIR30C2/MIR494/MIR3173,3,m_c,regulation of transport
-mirnas,BP,GO:0040013,negative regulation of locomotion,3/12,421/20820,0.01,12.36,5.66,0,0.01,0.01,MIR30C2/MIR494/MIR3173,3,m_c,regulation of transport
+mirnas,BP,GO:1903587,regulation of blood vessel endothelial cell proliferation involved in sprouting angiogenesis,3/12,48/20820,0.0625,108.4375,17.8955,0,1e-04,0,MIR10B/MIR483/MIR149,3,s_m,regulation of vasculature development
+mirnas,BP,GO:0002043,blood vessel endothelial cell proliferation involved in sprouting angiogenesis,3/12,55/20820,0.0545,94.6364,16.698,0,1e-04,1e-04,MIR10B/MIR483/MIR149,3,s_m,regulation of vasculature development
+mirnas,BP,GO:0090049,regulation of cell migration involved in sprouting angiogenesis,3/12,81/20820,0.037,64.2593,13.6987,0,4e-04,2e-04,MIR10B/MIR483/MIR149,3,s_m,endothelial cell migration
+mirnas,BP,GO:0002042,cell migration involved in sprouting angiogenesis,3/12,97/20820,0.0309,53.6598,12.4837,0,6e-04,3e-04,MIR10B/MIR483/MIR149,3,s_m,endothelial cell migration
+mirnas,BP,GO:0035278,miRNA-mediated gene silencing by inhibition of translation,3/12,99/20820,0.0303,52.5758,12.3527,0,6e-04,3e-04,MIR10B/MIR144/MIR483,3,s_m,regulation of translation
+mirnas,BP,GO:0035279,miRNA-mediated gene silencing by mRNA destabilization,3/12,103/20820,0.0291,50.534,12.1022,0,6e-04,3e-04,MIR203A/MIR483/MIR149,3,s_m,regulation of translation
+mirnas,MF,GO:1903231,mRNA base-pairing translational repressor activity,8/12,298/20820,0.0268,46.5772,19.0305,0,0,0,MIR10B/MIR451A/MIR144/MIR203A/MIR483/MIR193B/MIR149/MIR935,8,s_m,regulation of translation
+mirnas,MF,GO:0030371,translation repressor activity,8/12,329/20820,0.0243,42.1884,18.0841,0,0,0,MIR10B/MIR451A/MIR144/MIR203A/MIR483/MIR193B/MIR149/MIR935,8,s_m,regulation of translation
+mirnas,MF,GO:0045182,translation regulator activity,8/12,356/20820,0.0225,38.9888,17.3616,0,0,0,MIR10B/MIR451A/MIR144/MIR203A/MIR483/MIR193B/MIR149/MIR935,8,s_m,regulation of translation
+mirnas,BP,GO:0043535,regulation of blood vessel endothelial cell migration,3/12,157/20820,0.0191,33.1529,9.7113,1e-04,0.002,9e-04,MIR10B/MIR483/MIR149,3,s_m,endothelial cell migration
+mirnas,MF,GO:0003730,mRNA 3'-UTR binding,5/12,262/20820,0.0191,33.1107,12.5607,0,0,0,MIR10B/MIR451A/MIR144/MIR483/MIR193B,5,s_m,regulation of translation
+mirnas,BP,GO:0001936,regulation of endothelial cell proliferation,3/12,180/20820,0.0167,28.9167,9.0334,1e-04,0.0023,0.0011,MIR10B/MIR483/MIR149,3,s_m,epithelial cell proliferation
+mirnas,BP,GO:0043534,blood vessel endothelial cell migration,3/12,183/20820,0.0164,28.4426,8.9543,1e-04,0.0023,0.0011,MIR10B/MIR483/MIR149,3,s_m,endothelial cell migration
+mirnas,BP,GO:0061157,mRNA destabilization,3/12,194/20820,0.0155,26.8299,8.68,2e-04,0.0024,0.0011,MIR203A/MIR483/MIR149,3,s_m,regulation of translation
+mirnas,BP,GO:0002040,sprouting angiogenesis,3/12,197/20820,0.0152,26.4213,8.6092,2e-04,0.0024,0.0011,MIR10B/MIR483/MIR149,3,s_m,regulation of vasculature development
+mirnas,BP,GO:0050779,RNA destabilization,3/12,198/20820,0.0152,26.2879,8.5859,2e-04,0.0024,0.0011,MIR203A/MIR483/MIR149,3,s_m,regulation of translation
+mirnas,BP,GO:0061014,positive regulation of mRNA catabolic process,3/12,199/20820,0.0151,26.1558,8.5628,2e-04,0.0024,0.0011,MIR203A/MIR483/MIR149,3,s_m,regulation of translation
+mirnas,BP,GO:0001935,endothelial cell proliferation,3/12,203/20820,0.0148,25.6404,8.472,2e-04,0.0025,0.0011,MIR10B/MIR483/MIR149,3,s_m,epithelial cell proliferation
+mirnas,BP,GO:0017148,negative regulation of translation,3/12,213/20820,0.0141,24.4366,8.2562,2e-04,0.0027,0.0012,MIR10B/MIR144/MIR483,3,s_m,regulation of translation
+mirnas,BP,GO:1903313,positive regulation of mRNA metabolic process,3/12,234/20820,0.0128,22.2436,7.8479,3e-04,0.0033,0.0015,MIR203A/MIR483/MIR149,3,s_m,regulation of translation
+mirnas,BP,GO:0010594,regulation of endothelial cell migration,3/12,236/20820,0.0127,22.0551,7.8118,3e-04,0.0033,0.0015,MIR10B/MIR483/MIR149,3,s_m,endothelial cell migration
+mirnas,CC,GO:0016442,RISC complex,5/12,412/20820,0.0121,21.0558,9.874,0,1e-04,0,MIR10B/MIR144/MIR203A/MIR149/MIR643,5,s_m,regulation of translation
+mirnas,CC,GO:0031332,RNAi effector complex,5/12,413/20820,0.0121,21.0048,9.8611,0,1e-04,0,MIR10B/MIR144/MIR203A/MIR149/MIR643,5,s_m,regulation of translation
+mirnas,BP,GO:0043488,regulation of mRNA stability,3/12,274/20820,0.0109,18.9964,7.2011,5e-04,0.0046,0.0021,MIR203A/MIR483/MIR149,3,s_m,regulation of translation
+mirnas,BP,GO:0043487,regulation of RNA stability,3/12,287/20820,0.0105,18.1359,7.0198,5e-04,0.005,0.0023,MIR203A/MIR483/MIR149,3,s_m,regulation of translation
+mirnas,BP,GO:0061013,regulation of mRNA catabolic process,3/12,290/20820,0.0103,17.9483,6.9797,5e-04,0.005,0.0023,MIR203A/MIR483/MIR149,3,s_m,regulation of translation
+mirnas,BP,GO:0043542,endothelial cell migration,3/12,293/20820,0.0102,17.7645,6.9401,6e-04,0.005,0.0023,MIR10B/MIR483/MIR149,3,s_m,endothelial cell migration
+mirnas,BP,GO:0006402,mRNA catabolic process,3/12,357/20820,0.0084,14.5798,6.2151,0.001,0.0081,0.0037,MIR203A/MIR483/MIR149,3,s_m,regulation of translation
+mirnas,BP,GO:0030336,negative regulation of cell migration,3/12,388/20820,0.0077,13.4149,5.928,0.0012,0.0098,0.0044,MIR451A/MIR483/MIR149,3,s_m,regulation of transport
+mirnas,BP,GO:0001818,negative regulation of cytokine production,3/12,389/20820,0.0077,13.3805,5.9193,0.0013,0.0098,0.0044,MIR203A/MIR149/MIR935,3,s_m,regulation of cytokine production
+mirnas,BP,GO:2000146,negative regulation of cell motility,3/12,403/20820,0.0074,12.9156,5.8007,0.0014,0.0098,0.0045,MIR451A/MIR483/MIR149,3,s_m,regulation of transport
+mirnas,BP,GO:1903311,regulation of mRNA metabolic process,3/12,404/20820,0.0074,12.8837,5.7924,0.0014,0.0098,0.0045,MIR203A/MIR483/MIR149,3,s_m,regulation of translation
+mirnas,BP,GO:0050678,regulation of epithelial cell proliferation,3/12,410/20820,0.0073,12.6951,5.7436,0.0015,0.0099,0.0045,MIR10B/MIR483/MIR149,3,s_m,epithelial cell proliferation
+mirnas,BP,GO:0006401,RNA catabolic process,3/12,415/20820,0.0072,12.5422,5.7036,0.0015,0.0099,0.0045,MIR203A/MIR483/MIR149,3,s_m,regulation of translation
+mirnas,BP,GO:0040013,negative regulation of locomotion,3/12,421/20820,0.0071,12.3634,5.6565,0.0016,0.0101,0.0046,MIR451A/MIR483/MIR149,3,s_m,regulation of transport
+mirnas,BP,GO:0141188,nucleic acid catabolic process,3/12,444/20820,0.0068,11.723,5.4847,0.0018,0.0114,0.0052,MIR203A/MIR483/MIR149,3,s_m,regulation of translation
+mirnas,BP,GO:0006417,regulation of translation,3/12,451/20820,0.0067,11.541,5.4349,0.0019,0.0115,0.0052,MIR10B/MIR144/MIR483,3,s_m,regulation of translation
+mirnas,BP,GO:0050673,epithelial cell proliferation,3/12,488/20820,0.0061,10.666,5.1889,0.0024,0.0139,0.0063,MIR10B/MIR483/MIR149,3,s_m,epithelial cell proliferation
+prot,MF,GO:0031720,haptoglobin binding,3/26,10/20820,0.3,240.2308,26.7565,0,1e-04,1e-04,HBA1/HBB/HBD,3,s_c,hemoglobin complex
+prot,CC,GO:0031838,haptoglobin-hemoglobin complex,3/26,11/20820,0.2727,218.3916,25.5012,0,1e-04,1e-04,HBA1/HBB/HBD,3,s_c,hemoglobin complex
+prot,CC,GO:0005833,hemoglobin complex,3/26,12/20820,0.25,200.1923,24.4059,0,1e-04,1e-04,HBA1/HBB/HBD,3,s_c,hemoglobin complex
+prot,MF,GO:0005344,oxygen carrier activity,3/26,14/20820,0.2143,171.5934,22.5777,0,1e-04,1e-04,HBA1/HBB/HBD,3,s_c,molecular carrier activity
+prot,BP,GO:0015670,carbon dioxide transport,3/26,15/20820,0.2,160.1538,21.8035,0,1e-04,1e-04,HBA1/HBB/HBD,3,s_c,one-carbon compound transport
+prot,BP,GO:0015671,oxygen transport,3/26,15/20820,0.2,160.1538,21.8035,0,1e-04,1e-04,HBA1/HBB/HBD,3,s_c,gas transport
+prot,BP,GO:0015669,gas transport,3/26,22/20820,0.1364,109.1958,17.9539,0,3e-04,3e-04,HBA1/HBB/HBD,3,s_c,gas transport
+prot,BP,GO:0019755,one-carbon compound transport,3/26,26/20820,0.1154,92.3964,16.489,0,5e-04,4e-04,HBA1/HBB/HBD,3,s_c,one-carbon compound transport
+prot,BP,GO:0042744,hydrogen peroxide catabolic process,3/26,31/20820,0.0968,77.4938,15.0709,0,7e-04,6e-04,HBA1/HBB/HBD,3,s_c,antioxidant activity
+prot,MF,GO:0019825,oxygen binding,3/26,34/20820,0.0882,70.6561,14.3734,0,9e-04,7e-04,HBA1/HBB/HBD,3,s_c,oxygen binding
+prot,BP,GO:0042743,hydrogen peroxide metabolic process,3/26,55/20820,0.0545,43.6783,11.2065,0,0.0025,0.0019,HBA1/HBB/HBD,3,s_c,antioxidant activity
+mirnas,MF,GO:1903231,mRNA base-pairing translational repressor activity,16/26,298/20820,0.0537,42.9943,25.8188,0,0,0,MIR144/MIR6869/MIR3173/MIR363/MIR494/MIR92A1/MIR212/MIR30C2/MIR506/MIR483/MIR143/MIR135A1/MIR323A/MIR92B/MIR3619/MIR33B,16,s_c,regulation of translation
+prot,MF,GO:0004601,peroxidase activity,3/26,57/20820,0.0526,42.1457,10.9993,0,0.0027,0.002,HBA1/HBB/HBD,3,s_c,antioxidant activity
+prot,MF,GO:0016684,oxidoreductase activity acting on peroxide as acceptor,3/26,59/20820,0.0508,40.7171,10.8026,1e-04,0.0028,0.0021,HBA1/HBB/HBD,3,s_c,antioxidant activity
+mirnas,BP,GO:0043537,negative regulation of blood vessel endothelial cell migration,4/26,82/20820,0.0488,39.0619,12.2113,0,1e-04,1e-04,MIR494/MIR92A1/MIR212/MIR483,4,s_c,endothelial cell migration
+mirnas,MF,GO:0030371,translation repressor activity,16/26,329/20820,0.0486,38.9432,24.53,0,0,0,MIR144/MIR6869/MIR3173/MIR363/MIR494/MIR92A1/MIR212/MIR30C2/MIR506/MIR483/MIR143/MIR135A1/MIR323A/MIR92B/MIR3619/MIR33B,16,s_c,regulation of translation
+mirnas,MF,GO:0045182,translation regulator activity,16/26,356/20820,0.0449,35.9896,23.546,0,0,0,MIR144/MIR6869/MIR3173/MIR363/MIR494/MIR92A1/MIR212/MIR30C2/MIR506/MIR483/MIR143/MIR135A1/MIR323A/MIR92B/MIR3619/MIR33B,16,s_c,regulation of translation
+mirnas,MF,GO:0003730,mRNA 3'-UTR binding,11/26,262/20820,0.042,33.6201,18.7885,0,0,0,MIR144/MIR3173/MIR92A1/MIR212/MIR506/MIR483/MIR143/MIR323A/MIR92B/MIR3619/MIR33B,11,s_c,regulation of translation
+mirnas,BP,GO:0035278,miRNA-mediated gene silencing by inhibition of translation,4/26,99/20820,0.0404,32.3543,11.0575,0,2e-04,1e-04,MIR144/MIR92A1/MIR212/MIR483,4,s_c,regulation of translation
+mirnas,BP,GO:0010596,negative regulation of endothelial cell migration,4/26,101/20820,0.0396,31.7136,10.941,0,2e-04,1e-04,MIR494/MIR92A1/MIR212/MIR483,4,s_c,endothelial cell migration
+prot,MF,GO:0016209,antioxidant activity,3/26,86/20820,0.0349,27.9338,8.8502,2e-04,0.008,0.0061,HBA1/HBB/HBD,3,s_c,antioxidant activity
+mirnas,CC,GO:0016442,RISC complex,14/26,412/20820,0.034,27.2106,19.0008,0,0,0,MIR144/MIR744/MIR770/MIR494/MIR92A1/MIR212/MIR1197/MIR30C2/MIR143/MIR135A1/MIR323A/MIR181B2/MIR433/MIR33B,14,s_c,regulation of translation
+mirnas,CC,GO:0031332,RNAi effector complex,14/26,413/20820,0.0339,27.1447,18.9765,0,0,0,MIR144/MIR744/MIR770/MIR494/MIR92A1/MIR212/MIR1197/MIR30C2/MIR143/MIR135A1/MIR323A/MIR181B2/MIR433/MIR33B,14,s_c,regulation of translation
+mirnas,BP,GO:0043535,regulation of blood vessel endothelial cell migration,5/26,157/20820,0.0318,25.5022,10.897,0,1e-04,0,MIR494/MIR92A1/MIR212/MIR483/MIR143,5,s_c,endothelial cell migration
+prot,BP,GO:0098869,cellular oxidant detoxification,3/26,99/20820,0.0303,24.2657,8.205,3e-04,0.0116,0.0088,HBA1/HBB/HBD,3,s_c,response to toxic substance
+prot,CC,GO:0072562,blood microparticle,4/26,145/20820,0.0276,22.0902,9.0113,0,0.0019,0.0014,EIF2A/HBA1/HBB/HBD,4,s_c,blood microparticle
+mirnas,BP,GO:0043534,blood vessel endothelial cell migration,5/26,183/20820,0.0273,21.8789,10.0313,0,1e-04,1e-04,MIR494/MIR92A1/MIR212/MIR483/MIR143,5,s_c,endothelial cell migration
+prot,CC,GO:0022626,cytosolic ribosome,3/26,118/20820,0.0254,20.3585,7.4568,4e-04,0.0167,0.0128,EIF2A/RPL10/RPL13,3,s_c,ribosomal subunit
+mirnas,BP,GO:2000181,negative regulation of blood vessel morphogenesis,4/26,162/20820,0.0247,19.7721,8.4815,0,0.0011,7e-04,MIR494/MIR92A1/MIR212/MIR143,4,s_c,regulation of vasculature development
+mirnas,BP,GO:1901343,negative regulation of vasculature development,4/26,164/20820,0.0244,19.531,8.4245,0,0.0011,7e-04,MIR494/MIR92A1/MIR212/MIR143,4,s_c,regulation of vasculature development
+prot,BP,GO:1990748,cellular detoxification,3/26,125/20820,0.024,19.2185,7.2241,5e-04,0.0189,0.0145,HBA1/HBB/HBD,3,s_c,response to toxic substance
+prot,BP,GO:0097237,cellular response to toxic substance,3/26,135/20820,0.0222,17.7949,6.9225,6e-04,0.0227,0.0173,HBA1/HBB/HBD,3,s_c,response to toxic substance
+mirnas,BP,GO:0010594,regulation of endothelial cell migration,5/26,236/20820,0.0212,16.9654,8.7221,0,3e-04,2e-04,MIR494/MIR92A1/MIR212/MIR483/MIR143,5,s_c,endothelial cell migration
+prot,MF,GO:0020037,heme binding,3/26,142/20820,0.0211,16.9177,6.73,7e-04,0.0253,0.0193,HBA1/HBB/HBD,3,s_c,tetrapyrrole binding
+prot,BP,GO:0072593,reactive oxygen species metabolic process,5/26,245/20820,0.0204,16.3422,8.5418,0,9e-04,7e-04,HBA1/HBB/HBD/PON3/VDAC1,5,s_c,antioxidant activity
+prot,MF,GO:0140104,molecular carrier activity,5/26,249/20820,0.0201,16.0797,8.4647,0,9e-04,7e-04,DDX24/DHX15/HBA1/HBB/HBD,5,s_c,molecular carrier activity
+prot,MF,GO:0046906,tetrapyrrole binding,3/26,152/20820,0.0197,15.8047,6.4777,9e-04,0.0296,0.0226,HBA1/HBB/HBD,3,s_c,tetrapyrrole binding
+mirnas,BP,GO:0017148,negative regulation of translation,4/26,213/20820,0.0188,15.0379,7.2817,1e-04,0.0027,0.0016,MIR144/MIR92A1/MIR212/MIR483,4,s_c,regulation of translation
+mirnas,BP,GO:0016525,negative regulation of angiogenesis,3/26,160/20820,0.0187,15.0144,6.2924,0.001,0.0116,0.007,MIR92A1/MIR212/MIR143,3,s_c,regulation of vasculature development
+prot,BP,GO:0009636,response to toxic substance,5/26,272/20820,0.0184,14.72,8.0538,0,0.0013,0.001,DHX15/HBA1/HBB/HBD/PON3,5,s_c,response to toxic substance
+mirnas,BP,GO:0030336,negative regulation of cell migration,7/26,388/20820,0.018,14.4469,9.4543,0,0,0,MIR3173/MIR494/MIR92A1/MIR212/MIR30C2/MIR483/MIR92B,7,s_c,regulation of transport
+prot,BP,GO:0098754,detoxification,3/26,168/20820,0.0179,14.2995,6.12,0.0012,0.0361,0.0275,HBA1/HBB/HBD,3,s_c,response to toxic substance
+prot,BP,GO:0002181,cytoplasmic translation,3/26,169/20820,0.0178,14.2148,6.0993,0.0012,0.0361,0.0275,EIF3H/RPL10/RPL13,3,s_c,regulation of translation
+mirnas,BP,GO:2000146,negative regulation of cell motility,7/26,403/20820,0.0174,13.9091,9.2534,0,0,0,MIR3173/MIR494/MIR92A1/MIR212/MIR30C2/MIR483/MIR92B,7,s_c,regulation of transport
+mirnas,BP,GO:0043542,endothelial cell migration,5/26,293/20820,0.0171,13.665,7.7201,0,7e-04,4e-04,MIR494/MIR92A1/MIR212/MIR483/MIR143,5,s_c,endothelial cell migration
+mirnas,BP,GO:0032635,interleukin-6 production,3/26,177/20820,0.0169,13.5724,5.9397,0.0014,0.0135,0.0082,MIR144/MIR6869/MIR92A1,3,s_c,regulation of cytokine production
+mirnas,BP,GO:0032675,regulation of interleukin-6 production,3/26,177/20820,0.0169,13.5724,5.9397,0.0014,0.0135,0.0082,MIR144/MIR6869/MIR92A1,3,s_c,regulation of cytokine production
+mirnas,BP,GO:0040013,negative regulation of locomotion,7/26,421/20820,0.0166,13.3145,9.0261,0,0,0,MIR3173/MIR494/MIR92A1/MIR212/MIR30C2/MIR483/MIR92B,7,s_c,regulation of transport
+prot,CC,GO:0044391,ribosomal subunit,3/26,186/20820,0.0161,12.9156,5.772,0.0016,0.0437,0.0333,EIF2A/RPL10/RPL13,3,s_c,ribosomal subunit
+prot,BP,GO:0006006,glucose metabolic process,3/26,193/20820,0.0155,12.4472,5.6495,0.0017,0.0437,0.0333,PFKP/RBP4/WDR5,3,s_c,glucose metabolic process
+mirnas,BP,GO:0002040,sprouting angiogenesis,3/26,197/20820,0.0152,12.1945,5.5822,0.0018,0.0164,0.0099,MIR494/MIR92A1/MIR483,3,s_c,regulation of vasculature development
+mirnas,BP,GO:0050728,negative regulation of inflammatory response,3/26,207/20820,0.0145,11.6054,5.4223,0.0021,0.0169,0.0102,MIR6869/MIR92A1/MIR30C2,3,s_c,regulation of inflammatory response
+mirnas,BP,GO:1901342,regulation of vasculature development,4/26,372/20820,0.0108,8.6104,5.2372,0.0011,0.0118,0.0071,MIR494/MIR92A1/MIR212/MIR143,4,s_c,regulation of vasculature development
+mirnas,BP,GO:0051051,negative regulation of transport,5/26,467/20820,0.0107,8.5735,5.8532,2e-04,0.0045,0.0027,MIR144/MIR212/MIR143/MIR92B/MIR33B,5,s_c,regulation of transport
+mirnas,BP,GO:0031348,negative regulation of defense response,3/26,308/20820,0.0097,7.7997,4.2512,0.0065,0.0405,0.0245,MIR6869/MIR92A1/MIR30C2,3,s_c,regulation of inflammatory response
+mirnas,BP,GO:0050727,regulation of inflammatory response,4/26,442/20820,0.009,7.2468,4.6939,0.0021,0.0169,0.0102,MIR144/MIR6869/MIR92A1/MIR30C2,4,s_c,regulation of inflammatory response
+mirnas,BP,GO:0006417,regulation of translation,4/26,451/20820,0.0089,7.1022,4.6327,0.0022,0.0172,0.0104,MIR144/MIR92A1/MIR212/MIR483,4,s_c,regulation of translation
+mirnas,CC,GO:0016442,RISC complex,5/12,412/20820,0.0121,21.0558,9.874,0,1e-04,1e-04,MIR30C2/MIR770/MIR541/MIR494/MIR1197,5,m_c,regulation of translation
+mirnas,CC,GO:0031332,RNAi effector complex,5/12,413/20820,0.0121,21.0048,9.8611,0,1e-04,1e-04,MIR30C2/MIR770/MIR541/MIR494/MIR1197,5,m_c,regulation of translation
+mirnas,MF,GO:1903231,mRNA base-pairing translational repressor activity,3/12,298/20820,0.0101,17.4664,6.8755,6e-04,0.0143,0.0092,MIR30C2/MIR494/MIR3173,3,m_c,regulation of translation
+mirnas,MF,GO:0030371,translation repressor activity,3/12,329/20820,0.0091,15.8207,6.5071,8e-04,0.0143,0.0092,MIR30C2/MIR494/MIR3173,3,m_c,regulation of translation
+mirnas,MF,GO:0045182,translation regulator activity,3/12,356/20820,0.0084,14.6208,6.225,0.001,0.0144,0.0092,MIR30C2/MIR494/MIR3173,3,m_c,regulation of translation
+mirnas,BP,GO:0030336,negative regulation of cell migration,3/12,388/20820,0.0077,13.4149,5.928,0.0012,0.0146,0.0093,MIR30C2/MIR494/MIR3173,3,m_c,regulation of transport
+mirnas,BP,GO:2000146,negative regulation of cell motility,3/12,403/20820,0.0074,12.9156,5.8007,0.0014,0.0146,0.0093,MIR30C2/MIR494/MIR3173,3,m_c,regulation of transport
+mirnas,BP,GO:0040013,negative regulation of locomotion,3/12,421/20820,0.0071,12.3634,5.6565,0.0016,0.0146,0.0093,MIR30C2/MIR494/MIR3173,3,m_c,regulation of transport
