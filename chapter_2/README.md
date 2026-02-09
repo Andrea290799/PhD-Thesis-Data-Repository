@@ -8,6 +8,6 @@
 - **Supplementary Figure 2.6 (_go_gsea_mirnas.csv_)**: GO term GSEA of miRNAs in PL-EVs.
 - **Supplementary Figure 2.7 (_gsea_reg_hubs.csv_)**: GSEA of miRNA regulatory targets in PL-EVs.
 - **Supplementary Figure 2.8 (_ora_reg_hubs.csv_)**: ORA of regulated miRNA targets in PL-EVs. 
-- **Supplementary Figure 2.9 (_go_gsea_mirnas_filt.csv_)**: Subset of Supplementary Table 6 used for figure representation
-- **Supplementary Figure 2.10 (_gsea_reg_hubs_filt.csv_)**: Subset of Supplementary Table 7 used for figure representation
-- **Supplementary Figure 2.11 (_ora_reg_hubs_filt.csv_)**: Subset of Supplementary Table 8 used for figure representation
+- **Supplementary Figure 2.9 (_go_gsea_mirnas_filt.csv_)**: Subset of Supplementary Table 6 used for figure representation.
+- **Supplementary Figure 2.10 (_gsea_reg_hubs_filt.csv_)**: Subset of Supplementary Table 7 used for figure representation.
+- **Supplementary Figure 2.11 (_ora_reg_hubs_filt.csv_)**: Subset of Supplementary Table 8 used for figure representation.
