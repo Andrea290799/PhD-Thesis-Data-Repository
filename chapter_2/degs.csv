@@ -1,4 +1,4 @@
-genes,logFC,AveExpr,t,P.Value,adj.P.Val,B,sig,comp,n_comp,all_comp
+miRNA,log2FC,AveExpr,t,P.Value,adj.P.Val,B,sig,comp,n_comp,all_comp
 hsa-miR-5189-3p,-4.1749,2.7137,-2.6436,0.0178,0.988,-4.5742,TRUE,m_c,2,m_c;s_m
 hsa-miR-5189-5p,-2.0315,2.7921,-2.2498,0.0391,0.988,-4.5777,TRUE,m_c,1,m_c
 hsa-miR-6803-3p,-4.1852,0.2739,-2.9778,0.009,0.988,-4.5835,TRUE,m_c,2,m_c;s_m
@@ -98,3 +98,4 @@ hsa-miR-643,3.1829,-1.4882,2.2431,0.0396,0.7475,-4.1513,TRUE,s_m,1,s_m
 hsa-miR-6810-5p,3.5827,-0.2351,2.1656,0.046,0.7475,-4.1515,TRUE,s_m,1,s_m
 hsa-miR-6819-3p,3.0522,-1.5562,2.1858,0.0442,0.7475,-4.1711,TRUE,s_m,1,s_m
 hsa-miR-7705,3.0789,-1.7882,2.127,0.0495,0.7475,-4.2001,TRUE,s_m,1,s_m
+
