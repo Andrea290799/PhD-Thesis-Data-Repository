@@ -1,15 +1,15 @@
-Subject,Omics,Group,Sex,Age,Onset age,HB WBC (10^3/uL),HB PLT (10^3/uL),PRP PLT (10^3/uL),PRP MPV (fL),Reactions,FVC (%),FEV1 (%),Ole,Phl,Cup,Pla,Cyn,Weeds,Fra,Pro,Alt,Dpt,Dfar,Cat,Dog
-PL08,Proteomics,Control,F,26,NA7.98,316,1213,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-PL09,Trascriptomics|Proteomics,Control,F,35,NA5.09,161,561,9.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-PL10,Trascriptomics|Proteomics,Control,M,38,NA5.85,199,903,8.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-PL12,Trascriptomics,Control,F,27,NA4.57,188,361,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-PL24,Trascriptomics|Proteomics,Control,F,41,NA7.01,355,1500,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-PL02,Trascriptomics|Proteomics,Mild,F,36,286.23,240,1100,10,RC;AS,NA,NA,5x5,4x4,5x5,4x4,NA,NA,6x6,NA,NA,NA,NA,NA,NA
-PL04,Trascriptomics|Proteomics,Mild,F,35,76.38,262,1687,9.7,RC,NA,NA,7x6,4x4,5x5,4x4,NA,8x4,4x4,NA,NA,NA,NA,6x6,NA
-PL05,Trascriptomics|Proteomics,Mild,F,29,156.54,311,1310,10.1,RC;AS,nv,nv,5x5,5x6,5x5,NA,NA,NA,15x9,NA,NA,NA,7x5,10x10,NA
-PL25,Trascriptomics,Mild,F,26,107.86,225,1098,8.9,RC,NA,NA,6x7,5x6,NA,NA,11x6,NA,6x8,NA,NA,5x4,6x6,NA,NA
-PL14,Trascriptomics|Proteomics,Severe,F,53,236.35,210,1085,10,RC;AS,nv,nv,10x8,17x12,8x7,10x9,7x7,4x4,8x7,NA,NA,3x3,3x3,6x5,9x9
-PL15,Proteomics,Severe,F,46,204.27,244,1113,8.1,RC;AS,nv,nv,11x12,11x12,9x9,NA,7x6,4x4,NA,NA,NA,6x7,6x7,8x6,11x12
-PL20,Trascriptomics|Proteomics,Severe,F,21,65.7,326,1189,8.9,RC;AS,68,53,NA,NA,NA,NA,NA,NA,NA,NA,NA,6x6,11x9,12x8,9x9
-PL21,Trascriptomics|Proteomics,Severe,F,27,87.38,299,1366,9.3,RC;AS,72,64,NA,NA,4x4,NA,NA,NA,NA,4x3,NA,NA,NA,NA,7x5
-PL26,Trascriptomics|Proteomics,Severe,F,36,227.63,222,706,9,RC;AS,69,73,4x6,5x4,4x3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Subject,Omics,Group,Sex,Age,Onset age,Smoke,HB WBC (10^3/uL),HB PLT (10^3/uL),PRP PLT (10^3/uL),PRP MPV (fL),Reactions,FVC (%),FEV1 (%),Ole,Phl,Cup,Pla,Cyn,Weeds,Fra,Pro,Alt,Dpt,Dfar,Cat,Dog
+PL08,Proteomics,Control,F,26,NA,7.98,316,1213,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+PL09,Trascriptomics|Proteomics,Control,F,35,NA,5.09,161,561,9.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+PL10,Trascriptomics|Proteomics,Control,M,38,NA,5.85,199,903,8.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+PL12,Trascriptomics,Control,F,27,NA,4.57,188,361,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+PL24,Trascriptomics|Proteomics,Control,F,41,NA,7.01,355,1500,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+PL02,Trascriptomics|Proteomics,Mild,F,36,28,6.23,240,1100,10,RC;AS,NA,NA,5x5,4x4,5x5,4x4,NA,NA,6x6,NA,NA,NA,NA,NA,NA
+PL04,Trascriptomics|Proteomics,Mild,F,35,7,6.38,262,1687,9.7,RC,NA,NA,7x6,4x4,5x5,4x4,NA,8x4,4x4,NA,NA,NA,NA,6x6,NA
+PL05,Trascriptomics|Proteomics,Mild,F,29,15,6.54,311,1310,10.1,RC;AS,nv,nv,5x5,5x6,5x5,NA,NA,NA,15x9,NA,NA,NA,7x5,10x10,NA
+PL25,Trascriptomics,Mild,F,26,10,7.86,225,1098,8.9,RC,NA,NA,6x7,5x6,NA,NA,11x6,NA,6x8,NA,NA,5x4,6x6,NA,NA
+PL14,Trascriptomics|Proteomics,Severe,F,53,23,6.35,210,1085,10,RC;AS,nv,nv,10x8,17x12,8x7,10x9,7x7,4x4,8x7,NA,NA,3x3,3x3,6x5,9x9
+PL15,Proteomics,Severe,F,46,20,4.27,244,1113,8.1,RC;AS,nv,nv,11x12,11x12,9x9,NA,7x6,4x4,NA,NA,NA,6x7,6x7,8x6,11x12
+PL20,Trascriptomics|Proteomics,Severe,F,21,6,5.7,326,1189,8.9,RC;AS,68,53,NA,NA,NA,NA,NA,NA,NA,NA,NA,6x6,11x9,12x8,9x9
+PL21,Trascriptomics|Proteomics,Severe,F,27,8,7.38,299,1366,9.3,RC;AS,72,64,NA,NA,4x4,NA,NA,NA,NA,4x3,NA,NA,NA,NA,7x5
+PL26,Trascriptomics|Proteomics,Severe,F,36,22,7.63,222,706,9,RC;AS,69,73,4x6,5x4,4x3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
