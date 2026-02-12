@@ -1,8 +1,11 @@
-Variable,Control,Mild,Severe,p-value
-Gender (Male/Female),1/4,0/4,0/5,1
-Age (years),35 (27-38),32 (28.25-35.25),36 (27-46),0.769
-Onset age (years),-,12.5 (9.25-18.25),20 (8-22),1
-HB WBC (10^3/uL),5.85 (5.09-7.01),6.46 (6.3425-6.87),6.35 (5.7-7.38),0.6957
-HB PLT (10^3/uL),199 (188-316),251 (236.25-274.25),244 (222-299),0.7612
-PRP MPV (fL),9 (8.4-9.2),9.85 (9.5-10.025),9 (8.9-9.3),0.3158
-PRP PLT (10^3/uL),903 (561-1213),1205 (1099.5-1404.25),1113 (1085-1189),0.4584
+Variable,Control,Mild,Severe,p-value,Method
+Gender (Male/Female),1/3,0/3,0/5,0.5833,Fisher's Exact Test for Count Data
+Disease (RC&AS/RC),0/0,2/1,5/0,0.375,Fisher's Exact Test for Count Data
+FVC (>80%/<80%),4/0,3/0,2/3,1,Fisher's Exact Test for Count Data
+FEV1 (>80%/<80%),4/0,3/0,2/3,1,Fisher's Exact Test for Count Data
+Age (years),36.5 (32.75-38.75),35 (32-35.5),36 (27-46),0.8922,Kruskal-Wallis rank sum test
+Onset age (years),-,15 (11-21.5),20 (8-22),1,Wilcoxon rank sum exact test
+HB WBC (10^3/uL),6.43 (5.66-7.2525),6.38 (6.305-6.46),6.35 (5.7-7.38),0.9703,Kruskal-Wallis rank sum test
+HB PLT (10^3/uL),257.5 (189.5-325.75),262 (251-286.5),244 (222-299),0.9604,Kruskal-Wallis rank sum test
+PRP MPV (fL),9.1 (8.85-9.4),10 (9.85-10.05),9 (8.9-9.3),0.1434,Kruskal-Wallis rank sum test
+PRP PLT (10^3/uL),1058 (817.5-1284.75),1310 (1205-1498.5),1113 (1085-1189),0.4856,Kruskal-Wallis rank sum test
