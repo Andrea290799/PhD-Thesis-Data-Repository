@@ -53,7 +53,7 @@ s_m,MF,GO:1903231,mRNA base-pairing translational repressor activity,8/19,298/20
 s_m,MF,GO:0030371,translation repressor activity,8/19,329/20820,0.0243,26.6453,14.1706,0,0,0,MIR10B/MIR451A/MIR144/MIR203A/MIR483/MIR193B/MIR149/MIR935,8,NA
 s_m,MF,GO:0045182,translation regulator activity,8/19,356/20820,0.0225,24.6245,13.588,0,0,0,MIR10B/MIR451A/MIR144/MIR203A/MIR483/MIR193B/MIR149/MIR935,8,regulation of translation
 s_m,BP,GO:0043534,blood vessel endothelial cell migration,4/19,183/20820,0.0219,23.9517,9.425,0,0.0013,9e-04,MIR10B/MIR483/MIR149/GPLD1,4,endothelial cell migration
-s_m,BP,GO:0002040,sprouting angiogenesis,4/19,197/20820,0.0203,22.2495,9.0567,0,0.0013,9e-04,MIR10B/MIR483/MIR149/GPLD1,4,sprouting angiogenesis
+s_m,BP,GO:0002040,sprouting angiogenesis,4/19,197/20820,0.0203,22.2495,9.0567,0,0.0013,9e-04,MIR10B/MIR483/MIR149/GPLD1,4,regulation of vasculature development
 s_m,MF,GO:0003730,mRNA 3'-UTR binding,5/19,262/20820,0.0191,20.912,9.8026,0,3e-04,2e-04,MIR10B/MIR451A/MIR144/MIR483/MIR193B,5,regulation of translation
 s_m,BP,GO:0043535,regulation of blood vessel endothelial cell migration,3/19,157/20820,0.0191,20.9387,7.579,4e-04,0.0089,0.0058,MIR10B/MIR483/MIR149,3,NA
 s_m,BP,GO:0010594,regulation of endothelial cell migration,4/19,236/20820,0.0169,18.5727,8.2053,1e-04,0.0019,0.0012,MIR10B/MIR483/MIR149/GPLD1,4,endothelial cell migration
