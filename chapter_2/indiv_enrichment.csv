@@ -34,7 +34,7 @@ mirnas,BP,GO:1903311,regulation of mRNA metabolic process,3/12,404/20820,0.0074,
 mirnas,BP,GO:0050678,regulation of epithelial cell proliferation,3/12,410/20820,0.0073,12.6951,5.7436,0.0015,0.0099,0.0045,MIR10B/MIR483/MIR149,3,s_m,epithelial cell proliferation
 mirnas,BP,GO:0006401,RNA catabolic process,3/12,415/20820,0.0072,12.5422,5.7036,0.0015,0.0099,0.0045,MIR203A/MIR483/MIR149,3,s_m,translation
 mirnas,BP,GO:0040013,negative regulation of locomotion,3/12,421/20820,0.0071,12.3634,5.6565,0.0016,0.0101,0.0046,MIR451A/MIR483/MIR149,3,s_m,cell migration
-mirnas,BP,GO:0141188,nucleic acid catabolic process,3/12,444/20820,0.0068,11.723,5.4847,0.0018,0.0114,0.0052,MIR203A/MIR483/MIR149,3,s_m,regulation of translation
+mirnas,BP,GO:0141188,nucleic acid catabolic process,3/12,444/20820,0.0068,11.723,5.4847,0.0018,0.0114,0.0052,MIR203A/MIR483/MIR149,3,s_m,translation
 mirnas,BP,GO:0006417,regulation of translation,3/12,451/20820,0.0067,11.541,5.4349,0.0019,0.0115,0.0052,MIR10B/MIR144/MIR483,3,s_m,translation
 mirnas,BP,GO:0050673,epithelial cell proliferation,3/12,488/20820,0.0061,10.666,5.1889,0.0024,0.0139,0.0063,MIR10B/MIR483/MIR149,3,s_m,epithelial cell proliferation
 prot,MF,GO:0031720,haptoglobin binding,3/26,10/20820,0.3,240.2308,26.7565,0,1e-04,1e-04,HBA1/HBB/HBD,3,s_c,gas transport
