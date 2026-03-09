@@ -7,5 +7,4 @@ s_m3,BP,GO:2000146,negative regulation of cell motility,71,-0.315,-1.2778,0.0357
 s_c3,BP,GO:0007162,negative regulation of cell adhesion,19,-0.6977,-2.3126,1e-04,0.0418,0.0418,102,tags=42% list=18% signal=36%,MIR125A/MIR9-1/MIR503/MIR10A/MIR221/MIR31/MIR183/MIRLET7E,2,8,leukocyte cell-cell adhesion
 s_c3,BP,GO:0007159,leukocyte cell-cell adhesion,13,-0.6584,-1.9254,0.0061,0.5076,0.5076,77,tags=31% list=14% signal=27%,MIR125A/MIR221/MIR31/MIRLET7E,2,4,leukocyte cell-cell adhesion
 s_c3,BP,GO:1903037,regulation of leukocyte cell-cell adhesion,13,-0.6584,-1.9254,0.0061,0.5076,0.5076,77,tags=31% list=14% signal=27%,MIR125A/MIR221/MIR31/MIRLET7E,2,4,leukocyte cell-cell adhesion
-s_c3,BP,GO:0043536,positive regulation of blood vessel endothelial cell migration,21,-0.4468,-1.5177,0.029,1,1,78,tags=33% list=14% signal=30%,MIR10A/MIR221/MIR101-1/MIR31/MIRLET7F1/MIR10B/MIR150,2,7,NA
 s_c3,BP,GO:0010595,positive regulation of endothelial cell migration,25,-0.4238,-1.4451,0.0327,1,1,78,tags=28% list=14% signal=25%,MIR10A/MIR221/MIR101-1/MIR31/MIRLET7F1/MIR10B/MIR150,2,7,endothelial cell migration and proliferation

@@ -37,5 +37,3 @@ hsa-miR-92a-3p,BP,GO:0010595,positive regulation of endothelial cell migration,7
 hsa-miR-30a-5p,BP,GO:0010595,positive regulation of endothelial cell migration,7/143,133/20820,0.0526,7.6629,6.4105,0,7e-04,5e-04,ATP5F1A/BSG/GPI/ITGB3/PDCD6/RAC1/ROCK2,7,0,
 hsa-miR-30a-5p,BP,GO:0007162,negative regulation of cell adhesion,7/143,312/20820,0.0224,3.2665,3.3545,0.0059,0.0316,0.0219,ADAM10/CD9/CORO1C/PRKG1/RDX/RHOA/SRC,7,0,
 hsa-miR-31-5p,BP,GO:0007162,negative regulation of cell adhesion,7/146,312/20820,0.0224,3.1994,3.2894,0.0066,0.0368,0.0266,ADAM10/CD9/CORO1C/HRG/RDX/RHOA/SRC,7,0,
-hsa-miR-26a-5p,BP,GO:0043536,positive regulation of blood vessel endothelial cell migration,4/183,78/20820,0.0513,5.8344,4.0281,0.005,0.0293,0.0208,ATP5F1A/CIB1/FGFR1/HSPB1,4,0,
-hsa-let-7e-5p,BP,GO:0043536,positive regulation of blood vessel endothelial cell migration,4/220,78/20820,0.0513,4.8531,3.5233,0.0094,0.0497,0.0353,ATP5F1A/CIB1/FGFR1/HSPB1,4,0,
