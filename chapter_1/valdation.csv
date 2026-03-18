@@ -1,0 +1,9 @@
+miRNA,Log2(FC),p-value,Comparison
+hsa-miR-199b-5p,-1.824,0.005,Not Controlled vs. Well Controlled
+hsa-miR-30d-5p,-0.402,0.006,Not Controlled vs. Well Controlled
+hsa-miR-451a,-0.756,0.014,Not Controlled vs. Well Controlled
+hsa-miR-326,-1.084,0.022,Not Controlled vs. Well Controlled
+hsa-miR-99b-5p,0.312,0.033,Not Controlled vs. Well Controlled
+hsa-miR-126-5p,-0.413,0.019,Not Controlled vs. Partially Controlled
+hsa-miR-505-3p,-0.593,0.016,Not Controlled vs. Partially Controlled
+hsa-miR-652-3p,-0.524,0.010,Not Controlled vs. Partially Controlled
