@@ -1,6 +1,7 @@
 # PhD-Thesis-Data-Repository
 
-# Chapter 2.1
+# Chapter 2
+## Chapter 2.1
 - **Supplementary Table 2.1 (_patients.csv_): Subject information**. 
 - **Supplementary Table 2.2 (_rna_statistics.csv_): Patient clinical characteristics for small RNA-seq**. 
 - **Supplementary Table 2.3 (_prot_statistics.csv_): Patient clinical characteristics for proteomics analysis**. 
@@ -17,7 +18,7 @@
 - **Supplementary Table 2.14 (_gsea_reg_hubs_filt.csv_): Subset of Supplementary Table 7 used for figure representation**.
 - **Supplementary Table 2.15 (_ora_reg_hubs_filt.csv_): Subset of Supplementary Table 8 used for figure representation**.
 - 
-# Chapter 2.2
+## Chapter 2.2
 - **Supplementary Table 2.16 (_fusiones_pacientes.csv_): Subject clinical information**. 
 - **Supplementary Table 2.17 (_rnaseq_stats.csv_): RNA-seq-included subject clinical information**. 
 - **Supplementary Table 2.18 (_validation_stats.csv_): Validation-included subject clinical information**.
