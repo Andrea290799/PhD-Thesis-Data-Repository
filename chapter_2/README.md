@@ -1,5 +1,5 @@
 # Chapter 2
-
+## Chapter 2.1
 - **Supplementary Table 2.1 (_patients.csv_): Subject information**. Abbreviations: F, Female; M, Male; AS, Asthma; Cyn, Cynodon; Cup, Cupressus; Dfar, _Dermatophagoides farinae_; Dpt, _Dermatophagoides pteronyssinus_; FEV1, Forced Expiratory Volume in 1 second; FVC, Forced Vital Capacity; Fra, Fraxinus; MPV, Mean Platelet Volume; nv, Normal Values; Ole, Olive; Phleum, Grass; PLTs, Platelets; Pla, Platanus; Pro, Profilin; RC, Rhinoconjunctivitis; WBC, White Blood Cells; Skin Prick Test (mm).
   
 - **Supplementary Table 2.2 (_rna_statistics.csv_): Patient clinical characteristics for small RNA-seq**. Abbreviations: AS, asthma; FEV1, first second of forced respiration; FVC, forced vital capacity; HB, whole blood hemogram; MPV, mean platelet volume; PLT, platelet; PRP, platelet rich plasma; RC, rhinoconjunctivitis; WBC, white blood cells. 
@@ -27,7 +27,8 @@
 - **Supplementary Table 2.13 (_go_gsea_mirnas_filt.csv_): Subset of Supplementary Table 6 used for figure representation**.
 - **Supplementary Table 2.14 (_gsea_reg_hubs_filt.csv_): Subset of Supplementary Table 7 used for figure representation**.
 - **Supplementary Table 2.15 (_ora_reg_hubs_filt.csv_): Subset of Supplementary Table 8 used for figure representation**.
-  
+- 
+## Chapter 2.2
 - **Supplementary Table 2.16 (_fusiones_pacientes.csv_): Subject clinical information**. F: Female; M: Male; PLTs: Platelets; WBC: White Blood Cells; MPV: Mean Platelet Volume; *: RNA-seq; +: validation; RC: Rhinoconjunctivitis; AS: Asthma; FVC: Forced Vital Capacity; FEV1: Forced Expiratory Volume in 1 second; nv: Normal Values. Skin Prick Test (mm): Ole, Olive; Phleum, Grass; Cup, Cupressus; Pla, Platanus; Cyn, Cynodon; Fra, Fraxinus; Pro, Profilin; Alt, Alternaria; Dpt, _Dermatophagoides pteronyssinus_; Dfar, _Dermatophagoides farinae_
 
 - **Supplementary Table 2.17 (_rnaseq_stats.csv_): RNA-seq-included subject clinical information**. § Categorical variables (Fisher's Exact Test); ¶ Continuous variables (Kruskal-Wallis test); IQR: Interquartile Range; Freq: frequency; PLTs: platelets; MPV: mean platelet volume; WBC: white blood cells.
