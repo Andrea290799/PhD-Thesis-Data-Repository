@@ -5,7 +5,7 @@
 - **Supplementary Table 2.1 (_patients.csv_): Subject information**. 
 - **Supplementary Table 2.2 (_rna_statistics.csv_): Patient clinical characteristics for small RNA-seq**. 
 - **Supplementary Table 2.3 (_prot_statistics.csv_): Patient clinical characteristics for proteomics analysis**. 
-- **Supplementary Table 2.4 (_degs.csv_): Summary of differentially expressed miRNAs (DEMs, |log₂(FC)| ≥ 2 and _p_-value < 0.05) in PL-EVs across the three experimental comparisons**.
+- **Supplementary Table 2.4 (_dems.csv_): Summary of differentially expressed miRNAs (DEMs, |log₂(FC)| ≥ 2 and _p_-value < 0.05) in PL-EVs across the three experimental comparisons**.
 - **Supplementary Table 2.5: Medication usage (µg d−1) for mild and severe allergic patients.**
 - **Supplementary Table 2.6(_deps.csv_): Summary of differentially expressed proteins (DEPs, |log₂(FC)| ≥ 2 and _p_-adjusted value < 0.05) in PL-EVs across the three experimental comparisons**. T
 - **Supplementary Table 2.7 (_correlations.csv_): Summary of Spearman correlated (_ρ_ ≥ 0.8 and _p_-adjusted value < 0.05) miRNAs and proteins in PL-EVs across different allergic severity grades**. 
