@@ -8,4 +8,5 @@
 - **Supplementary Table 1.5 (_metabolites.csv_): Key allergic asthma severity related metabolites (https://doi.org/10.1111/all.15192) abundances in serum**.
 - **Supplementary Table 1.6 (_corr_rho.csv_): Spearman ρ values from correlation analysis between key allergic asthma severity related metabolites (https://doi.org/10.1111/all.15192) abundances and differentially expressed miRNAs expression levels**. 
 - **Supplementary Table 1.7 (_corr_pval.csv_): _p_-values from correlation analysis between key allergic asthma severity related metabolites (https://doi.org/10.1111/all.15192) abundances and differentially expressed miRNAs expression levels**.
+- - **Supplementary Table 1.8 (_targets.csv_): Metabolism-directed filtered miRNA-validated-target list**. 
 - **Supplementary Table 1.8 (_validation.csv_): Validation results in CAMP cohort**. Validated miRNAs by RNA-seq, their basemean, log<sub>2</sub>(FC) and _p_-value are shown for each extreme comparative of patients in CAMP cohort.
