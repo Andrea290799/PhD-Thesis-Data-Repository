@@ -12,7 +12,7 @@
 
 # Chapter 2
 ## Chapter 2.1
-- Supplementary Table 2.1 (_patients.csv_): Subject clinical information**. 
+- Supplementary Table 2.1 (_patients.csv_): Subject clinical information. 
 - Supplementary Table 2.2 (_rna_statistics.csv_): Patient clinical characteristics for small RNA-seq. 
 - Supplementary Table 2.3 (_prot_statistics.csv_): Patient clinical characteristics for proteomics analysis. 
 - Supplementary Table 2.4 (_dems.csv_): Summary of differentially expressed miRNAs (DEMs, |log₂(FC)| ≥ 2 and _p_-value < 0.05) in PL-EVs across the three experimental comparisons.
