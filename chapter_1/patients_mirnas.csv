@@ -20,17 +20,17 @@ M-8,41,M,woman,34.58,CT + AN + CILABA,no,22,D. pte + D. far + A. siro + L. epi +
 M-9,32,M,woman,24.62,CT + AN + S + CILABA,no,6,D. pte + D. far + A. siro + L. epi + B. tro + T. put,2500
 M-10,43,M,man,25.69,CT + AN + CILABA,no,40,D. pte + D. far + B. tro,116
 M-11,41,M,man,27.70,CT + AN + S + CILABA,no,13,D. pte + D. far + L. epi + B. tro + T. put,238
-C-1,28,C,woman,27.73,no,no,,none
-C-2,48,C,man,28.74,no,no,,none
-C-3,59,C,man,30.49,no,yes,,none
-C-4,21,C,woman,38.30,no,no,,none
-C-5,19,C,woman,19.38,no,no,,none
-C-6,36,C,woman,31.25,no,no,,none
-C-7,22,C,man,24.39,no,no,,none
-C-8,37,C,woman,26.22,no,no,,none
-C-9,34,C,man,20.68,no,yes,,none
-C-10,18,C,woman,27.92,no,no,,none
-C-11,52,C,woman,23.46,no,yes,,none
+C-1,28,C,woman,27.73,no,no,,none,
+C-2,48,C,man,28.74,no,no,,none,
+C-3,59,C,man,30.49,no,yes,,none,
+C-4,21,C,woman,38.30,no,no,,none,
+C-5,19,C,woman,19.38,no,no,,none,
+C-6,36,C,woman,31.25,no,no,,none,
+C-7,22,C,man,24.39,no,no,,none,
+C-8,37,C,woman,26.22,no,no,,none,
+C-9,34,C,man,20.68,no,yes,,none,
+C-10,18,C,woman,27.92,no,no,,none,
+C-11,52,C,woman,23.46,no,yes,,none,
 C-12,53,C,man,26.33,no,no,,none
 C-13,49,C,man,34.31,no,no,,none
 C-14,33,C,woman,34.08,no,no,,none
