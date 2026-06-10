@@ -1,0 +1,37 @@
+﻿Name,Age,Group,Gender,BMI,Medication,Smoking status,Onset age,Clinically relevant mites,Total IgE 
+SU-1,64,SU,woman,27.63,CILABA + SABA + S + T,no,15,D. pte + D. far + L. epi,160
+SU-2,41,SU,woman,36.39,S + CILABA + AC + SABA ,no,9,D. pte + D. far + L. epi + A. siro,245
+SU-3,53,SU,man,22.68,S + AC + CILABA + SABA + CO,no,15,D. pte + D. far + B. tro + T. put,679
+SU-4,70,SU,man,27.14,S + AC + CILABA + SABA,former smoker,20,D. pte + D. far + L. epi + T. put,176
+SU-5,44,SU,man,23.10,S + AC + CILABA + SABA,no,12,D. pte + D. far + B. tro,202
+SU-6,36,SU,woman,26.84,S + CILABA + SABA + AH + CT,no,4,D. pte + D. far + B. tro + T. put,2000
+SU-7,43,SU,woman,28.62,CILABA + AC + S + SABA,no,4,D. pte + D. far + T. put + L. epi + B. tro,647
+SU-8,56,SU,woman,30.08,CILABA + SABA + CT + AN + S,no,18,none,45
+SU-9,54,SU,man,31.59,S + AC + CILABA + SABA,no,5,none,12
+SU-10,48,SU,woman,29.48,CILABA + SABA + CT + AH,former smoker,5,D. pte + D. far + L. epi + T. put + B. tro,455
+M-1,30,M,woman,30.00,CT + AN + CILABA,no,5,D. pte + D. far + L. epi + B. tro + A. siro,160
+M-2,31,M,woman,20.43,CT +AN + BD,no,14,D. pte + D. far + B.tro + T. put + L. epi,346
+M-3,28,M,woman,19.38,CT + AN + CILABA,no,8,D. pte + D. far,110
+M-4,26,M,man,20.83,CT + AN + CILABA,no,7,D. pte + D. far + L. epi + T. put + B. tro,1297
+M-5,42,M,man,30.30,CT + AN + CILABA,no,15,D. pte + D. far + A. siro + B. tro,358
+M-6,41,M,woman,34.29,CT + AN + CILABA,yes,9,D. pte + D. far,89
+M-7,41,M,woman,34.88,CT + AN + CILABA,no,21,B. tro,611
+M-8,41,M,woman,34.58,CT + AN + CILABA,no,22,D. pte + D. far + A. siro + L. epi + B. tro + T. put,237
+M-9,32,M,woman,24.62,CT + AN + S + CILABA,no,6,D. pte + D. far + A. siro + L. epi + B. tro + T. put,2500
+M-10,43,M,man,25.69,CT + AN + CILABA,no,40,D. pte + D. far + B. tro,116
+M-11,41,M,man,27.70,CT + AN + S + CILABA,no,13,D. pte + D. far + L. epi + B. tro + T. put,238
+C-1,28,C,woman,27.73,no,no,,none
+C-2,48,C,man,28.74,no,no,,none
+C-3,59,C,man,30.49,no,yes,,none
+C-4,21,C,woman,38.30,no,no,,none
+C-5,19,C,woman,19.38,no,no,,none
+C-6,36,C,woman,31.25,no,no,,none
+C-7,22,C,man,24.39,no,no,,none
+C-8,37,C,woman,26.22,no,no,,none
+C-9,34,C,man,20.68,no,yes,,none
+C-10,18,C,woman,27.92,no,no,,none
+C-11,52,C,woman,23.46,no,yes,,none
+C-12,53,C,man,26.33,no,no,,none
+C-13,49,C,man,34.31,no,no,,none
+C-14,33,C,woman,34.08,no,no,,none
+C-15,52,C,woman,37.32,CT + AH,no,,none
