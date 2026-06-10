@@ -1,13 +1,13 @@
 # PhD-Thesis-Data-Repository
 # Chapter 1
-*- **Supplementary Table 1.1 (_patients.csv_): Subject clinical information**. 
+- **Supplementary Table 1.1 (_patients.csv_): Subject clinical information**. 
 - **Supplementary Table 1.2 (_de_mirnas.csv_): Differentially expressed miRNAs in SU vs. M comparison**. 
 - **Supplementary Table 1.3 (_de_mirnas_m_su_exp.csv_): Differentially expressed miRNA normalized expression values (2<sup>-ΔΔCt</sup>).** 
 - **Supplementary Table 1.4 (_enrichment.csv_): Results of functional enrichment analysis of Gene Ontology Biological Process (over representation analysis, ORA) of the 40 differentially expressed miRNAs between the severe uncontrolled and mild patient groups**. 
 - **Supplementary Table 1.5 (_metabolites.csv_): Key allergic asthma severity related metabolites (https://doi.org/10.1111/all.15192) abundances in serum**.
 - **Supplementary Table 1.6 (_corr_rho.csv_): Spearman ρ values from correlation analysis between key allergic asthma severity related metabolites (https://doi.org/10.1111/all.15192) abundances and differentially expressed miRNAs expression levels**. 
 - **Supplementary Table 1.7 (_corr_pval.csv_): _p_-values from correlation analysis between key allergic asthma severity related metabolites (https://doi.org/10.1111/all.15192) abundances and differentially expressed miRNAs expression levels**.
-- - **Supplementary Table 1.8 (_targets.csv_): Metabolism-directed filtered miRNA-validated-target list**. 
+- **Supplementary Table 1.8 (_targets.csv_): Metabolism-directed filtered miRNA-validated-target list**. 
 - **Supplementary Table 1.8 (_validation.csv_): Validation results in CAMP cohort**.
 
 # Chapter 2
