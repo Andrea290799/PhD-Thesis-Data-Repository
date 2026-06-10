@@ -1,6 +1,6 @@
 # Chapter 2
 ## Chapter 2.1
-- **Supplementary Table 2.1 (_patients.csv_): Subject information**. Abbreviations: F, Female; M, Male; AS, Asthma; Cyn, Cynodon; Cup, Cupressus; Dfar, _Dermatophagoides farinae_; Dpt, _Dermatophagoides pteronyssinus_; FEV1, Forced Expiratory Volume in 1 second; FVC, Forced Vital Capacity; Fra, Fraxinus; MPV, Mean Platelet Volume; nv, Normal Values; Ole, Olive; Phleum, Grass; PLTs, Platelets; Pla, Platanus; Pro, Profilin; RC, Rhinoconjunctivitis; WBC, White Blood Cells; Skin Prick Test (mm).
+- **Supplementary Table 2.1 (_patients.csv_): Subject clinical information**. Abbreviations: F, Female; M, Male; AS, Asthma; Cyn, Cynodon; Cup, Cupressus; Dfar, _Dermatophagoides farinae_; Dpt, _Dermatophagoides pteronyssinus_; FEV1, Forced Expiratory Volume in 1 second; FVC, Forced Vital Capacity; Fra, Fraxinus; MPV, Mean Platelet Volume; nv, Normal Values; Ole, Olive; Phleum, Grass; PLTs, Platelets; Pla, Platanus; Pro, Profilin; RC, Rhinoconjunctivitis; WBC, White Blood Cells; Skin Prick Test (mm).
   
 - **Supplementary Table 2.2 (_rna_statistics.csv_): Patient clinical characteristics for small RNA-seq**. Abbreviations: AS, asthma; FEV1, first second of forced respiration; FVC, forced vital capacity; HB, whole blood hemogram; MPV, mean platelet volume; PLT, platelet; PRP, platelet rich plasma; RC, rhinoconjunctivitis; WBC, white blood cells. 
 
