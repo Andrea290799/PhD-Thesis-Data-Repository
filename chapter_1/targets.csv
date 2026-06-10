@@ -1,0 +1,361 @@
+Mature miRNA,Target symbol,Metabolic Group,n groups,n targets
+hsa-let-7c-5p,PAFAH2,Sphingosine,3,36
+hsa-let-7c-5p,ACER2,Sphingosine,3,36
+hsa-let-7c-5p,SGPL1,Sphingosine,3,36
+hsa-let-7c-5p,ASAH1,Sphingosine,3,36
+hsa-let-7c-5p,CYP2J2,Arachidonic acid,3,36
+hsa-let-7c-5p,ACSL1,Arachidonic acid,3,36
+hsa-let-7c-5p,ACSL3,Arachidonic acid,3,36
+hsa-let-7c-5p,ACSL4,Arachidonic acid,3,36
+hsa-let-7c-5p,KDSR,Sphingosine,3,36
+hsa-let-7c-5p,UGCG,Sphingosine,3,36
+hsa-let-7c-5p,UGT8,Sphingosine,3,36
+hsa-let-7c-5p,PRDX6,Lysophospholipids,3,36
+hsa-let-7c-5p,LPCAT3,Lysophospholipids,3,36
+hsa-let-7c-5p,SLC27A4,Arachidonic acid,3,36
+hsa-let-7c-5p,SLC27A2,Arachidonic acid,3,36
+hsa-let-7c-5p,ABHD2,Arachidonic acid,3,36
+hsa-let-7c-5p,ABHD12,Arachidonic acid,3,36
+hsa-let-7c-5p,CERS2,Sphingosine,3,36
+hsa-let-7c-5p,ACSL5,Arachidonic acid,3,36
+hsa-let-7c-5p,MBOAT7,Lysophospholipids,3,36
+hsa-let-7c-5p,CERS4,Sphingosine,3,36
+hsa-let-7c-5p,LPCAT1,Lysophospholipids,3,36
+hsa-let-7c-5p,SGPP1,Sphingosine,3,36
+hsa-let-7c-5p,SLC27A1,Arachidonic acid,3,36
+hsa-let-7c-5p,ALOX5,Arachidonic acid,3,36
+hsa-let-7c-5p,PLA2G6,Lysophospholipids,3,36
+hsa-let-7c-5p,SPHK2,Sphingosine,3,36
+hsa-let-7c-5p,LPCAT2,Lysophospholipids,3,36
+hsa-let-7c-5p,ABHD6,Arachidonic acid,3,36
+hsa-let-7c-5p,SLC27A3,Arachidonic acid,3,36
+hsa-let-7c-5p,MBOAT2,Lysophospholipids,3,36
+hsa-let-7c-5p,MBOAT2,Lysophospholipids,3,36
+hsa-let-7c-5p,CERS5,Sphingosine,3,36
+hsa-let-7c-5p,LPCAT4,Lysophospholipids,3,36
+hsa-let-7c-5p,LPCAT4,Lysophospholipids,3,36
+hsa-let-7c-5p,SGPP2,Sphingosine,3,36
+hsa-let-7c-5p,ASAH2,Sphingosine,3,36
+hsa-let-7c-5p,GBA1,Sphingosine,3,36
+hsa-miR-18a-5p,SGPL1,Sphingosine,3,33
+hsa-miR-18a-5p,ASAH1,Sphingosine,3,33
+hsa-miR-18a-5p,ACSL1,Arachidonic acid,3,33
+hsa-miR-18a-5p,ACSL3,Arachidonic acid,3,33
+hsa-miR-18a-5p,ACSL4,Arachidonic acid,3,33
+hsa-miR-18a-5p,KDSR,Sphingosine,3,33
+hsa-miR-18a-5p,UGCG,Sphingosine,3,33
+hsa-miR-18a-5p,UGT8,Sphingosine,3,33
+hsa-miR-18a-5p,SPHK1,Sphingosine,3,33
+hsa-miR-18a-5p,LPCAT3,Lysophospholipids,3,33
+hsa-miR-18a-5p,SLC27A4,Arachidonic acid,3,33
+hsa-miR-18a-5p,ABHD2,Arachidonic acid,3,33
+hsa-miR-18a-5p,ACSL6,Arachidonic acid,3,33
+hsa-miR-18a-5p,CERS2,Sphingosine,3,33
+hsa-miR-18a-5p,ACSL5,Arachidonic acid,3,33
+hsa-miR-18a-5p,CERK,Sphingosine,3,33
+hsa-miR-18a-5p,MBOAT7,Lysophospholipids,3,33
+hsa-miR-18a-5p,CERS4,Sphingosine,3,33
+hsa-miR-18a-5p,LPCAT1,Lysophospholipids,3,33
+hsa-miR-18a-5p,SGPP1,Sphingosine,3,33
+hsa-miR-18a-5p,SLC27A1,Arachidonic acid,3,33
+hsa-miR-18a-5p,PLA2G6,Lysophospholipids,3,33
+hsa-miR-18a-5p,ACER2,Sphingosine,3,33
+hsa-miR-18a-5p,NAAA,Sphingosine,3,33
+hsa-miR-18a-5p,ALOX15,Arachidonic acid,3,33
+hsa-miR-18a-5p,SPHK2,Sphingosine,3,33
+hsa-miR-18a-5p,ABHD6,Arachidonic acid,3,33
+hsa-miR-18a-5p,SLC27A3,Arachidonic acid,3,33
+hsa-miR-18a-5p,MBOAT2,Lysophospholipids,3,33
+hsa-miR-18a-5p,MBOAT2,Lysophospholipids,3,33
+hsa-miR-18a-5p,LPCAT4,Lysophospholipids,3,33
+hsa-miR-18a-5p,LPCAT4,Lysophospholipids,3,33
+hsa-miR-18a-5p,SGPP2,Sphingosine,3,33
+hsa-miR-18a-5p,ASAH2,Sphingosine,3,33
+hsa-miR-18a-5p,GBA1,Sphingosine,3,33
+hsa-miR-103a-3p,SGPL1,Sphingosine,3,32
+hsa-miR-103a-3p,CYP2J2,Arachidonic acid,3,32
+hsa-miR-103a-3p,ACSL1,Arachidonic acid,3,32
+hsa-miR-103a-3p,ACSL3,Arachidonic acid,3,32
+hsa-miR-103a-3p,ACSL4,Arachidonic acid,3,32
+hsa-miR-103a-3p,KDSR,Sphingosine,3,32
+hsa-miR-103a-3p,PAFAH2,Sphingosine,3,32
+hsa-miR-103a-3p,UGCG,Sphingosine,3,32
+hsa-miR-103a-3p,UGT8,Sphingosine,3,32
+hsa-miR-103a-3p,SPHK1,Sphingosine,3,32
+hsa-miR-103a-3p,PRDX6,Lysophospholipids,3,32
+hsa-miR-103a-3p,SLC27A4,Arachidonic acid,3,32
+hsa-miR-103a-3p,SLC27A2,Arachidonic acid,3,32
+hsa-miR-103a-3p,ABHD2,Arachidonic acid,3,32
+hsa-miR-103a-3p,ACSL6,Arachidonic acid,3,32
+hsa-miR-103a-3p,ABHD12,Arachidonic acid,3,32
+hsa-miR-103a-3p,CERS2,Sphingosine,3,32
+hsa-miR-103a-3p,ACSL5,Arachidonic acid,3,32
+hsa-miR-103a-3p,CERK,Sphingosine,3,32
+hsa-miR-103a-3p,MBOAT7,Lysophospholipids,3,32
+hsa-miR-103a-3p,LPCAT1,Lysophospholipids,3,32
+hsa-miR-103a-3p,SGPP1,Sphingosine,3,32
+hsa-miR-103a-3p,SLC27A1,Arachidonic acid,3,32
+hsa-miR-103a-3p,PLA2G6,Lysophospholipids,3,32
+hsa-miR-103a-3p,ACER2,Sphingosine,3,32
+hsa-miR-103a-3p,SPHK2,Sphingosine,3,32
+hsa-miR-103a-3p,LPCAT2,Lysophospholipids,3,32
+hsa-miR-103a-3p,ABHD6,Arachidonic acid,3,32
+hsa-miR-103a-3p,MBOAT2,Lysophospholipids,3,32
+hsa-miR-103a-3p,MBOAT2,Lysophospholipids,3,32
+hsa-miR-103a-3p,CERS5,Sphingosine,3,32
+hsa-miR-103a-3p,LPCAT4,Lysophospholipids,3,32
+hsa-miR-103a-3p,LPCAT4,Lysophospholipids,3,32
+hsa-miR-103a-3p,GBA1,Sphingosine,3,32
+hsa-miR-17-5p,SGPL1,Sphingosine,3,28
+hsa-miR-17-5p,ACSL4,Arachidonic acid,3,28
+hsa-miR-17-5p,UGCG,Sphingosine,3,28
+hsa-miR-17-5p,ABHD2,Arachidonic acid,3,28
+hsa-miR-17-5p,ACER2,Sphingosine,3,28
+hsa-miR-17-5p,ASAH1,Sphingosine,3,28
+hsa-miR-17-5p,ACSL1,Arachidonic acid,3,28
+hsa-miR-17-5p,ACSL3,Arachidonic acid,3,28
+hsa-miR-17-5p,KDSR,Sphingosine,3,28
+hsa-miR-17-5p,PAFAH2,Sphingosine,3,28
+hsa-miR-17-5p,UGT8,Sphingosine,3,28
+hsa-miR-17-5p,PRDX6,Lysophospholipids,3,28
+hsa-miR-17-5p,LPCAT3,Lysophospholipids,3,28
+hsa-miR-17-5p,SLC27A2,Arachidonic acid,3,28
+hsa-miR-17-5p,ACSL6,Arachidonic acid,3,28
+hsa-miR-17-5p,ABHD12,Arachidonic acid,3,28
+hsa-miR-17-5p,CERS2,Sphingosine,3,28
+hsa-miR-17-5p,ACSL5,Arachidonic acid,3,28
+hsa-miR-17-5p,CERK,Sphingosine,3,28
+hsa-miR-17-5p,MBOAT7,Lysophospholipids,3,28
+hsa-miR-17-5p,LPCAT1,Lysophospholipids,3,28
+hsa-miR-17-5p,SGPP1,Sphingosine,3,28
+hsa-miR-17-5p,NAAA,Sphingosine,3,28
+hsa-miR-17-5p,LPCAT2,Lysophospholipids,3,28
+hsa-miR-17-5p,MBOAT2,Lysophospholipids,3,28
+hsa-miR-17-5p,MBOAT2,Lysophospholipids,3,28
+hsa-miR-17-5p,CERS5,Sphingosine,3,28
+hsa-miR-17-5p,SGPP2,Sphingosine,3,28
+hsa-miR-17-5p,GBA1,Sphingosine,3,28
+hsa-miR-30d-5p,SLC27A1,Arachidonic acid,3,23
+hsa-miR-30d-5p,LPCAT1,Lysophospholipids,3,23
+hsa-miR-30d-5p,ASAH1,Sphingosine,3,23
+hsa-miR-30d-5p,ACSL1,Arachidonic acid,3,23
+hsa-miR-30d-5p,ACSL3,Arachidonic acid,3,23
+hsa-miR-30d-5p,ACSL4,Arachidonic acid,3,23
+hsa-miR-30d-5p,PAFAH2,Sphingosine,3,23
+hsa-miR-30d-5p,UGCG,Sphingosine,3,23
+hsa-miR-30d-5p,UGT8,Sphingosine,3,23
+hsa-miR-30d-5p,SPHK1,Sphingosine,3,23
+hsa-miR-30d-5p,SLC27A4,Arachidonic acid,3,23
+hsa-miR-30d-5p,ABHD2,Arachidonic acid,3,23
+hsa-miR-30d-5p,ACSL6,Arachidonic acid,3,23
+hsa-miR-30d-5p,CERS2,Sphingosine,3,23
+hsa-miR-30d-5p,CERK,Sphingosine,3,23
+hsa-miR-30d-5p,SGPP1,Sphingosine,3,23
+hsa-miR-30d-5p,NAAA,Sphingosine,3,23
+hsa-miR-30d-5p,LPCAT2,Lysophospholipids,3,23
+hsa-miR-30d-5p,ABHD6,Arachidonic acid,3,23
+hsa-miR-30d-5p,SLC27A3,Arachidonic acid,3,23
+hsa-miR-30d-5p,MBOAT2,Lysophospholipids,3,23
+hsa-miR-30d-5p,MBOAT2,Lysophospholipids,3,23
+hsa-miR-30d-5p,SGPP2,Sphingosine,3,23
+hsa-miR-30d-5p,GBA1,Sphingosine,3,23
+hsa-miR-23b-3p,SGPL1,Sphingosine,3,21
+hsa-miR-23b-3p,ASAH1,Sphingosine,3,21
+hsa-miR-23b-3p,ACSL3,Arachidonic acid,3,21
+hsa-miR-23b-3p,ACSL4,Arachidonic acid,3,21
+hsa-miR-23b-3p,KDSR,Sphingosine,3,21
+hsa-miR-23b-3p,UGCG,Sphingosine,3,21
+hsa-miR-23b-3p,UGT8,Sphingosine,3,21
+hsa-miR-23b-3p,PRDX6,Lysophospholipids,3,21
+hsa-miR-23b-3p,ABHD2,Arachidonic acid,3,21
+hsa-miR-23b-3p,ACSL6,Arachidonic acid,3,21
+hsa-miR-23b-3p,CERS2,Sphingosine,3,21
+hsa-miR-23b-3p,MBOAT7,Lysophospholipids,3,21
+hsa-miR-23b-3p,CERS4,Sphingosine,3,21
+hsa-miR-23b-3p,LPCAT1,Lysophospholipids,3,21
+hsa-miR-23b-3p,SGPP1,Sphingosine,3,21
+hsa-miR-23b-3p,SPHK2,Sphingosine,3,21
+hsa-miR-23b-3p,LPCAT2,Lysophospholipids,3,21
+hsa-miR-23b-3p,ABHD6,Arachidonic acid,3,21
+hsa-miR-23b-3p,SLC27A3,Arachidonic acid,3,21
+hsa-miR-23b-3p,MBOAT2,Lysophospholipids,3,21
+hsa-miR-23b-3p,MBOAT2,Lysophospholipids,3,21
+hsa-miR-23b-3p,LPCAT4,Lysophospholipids,3,21
+hsa-miR-23b-3p,LPCAT4,Lysophospholipids,3,21
+hsa-miR-33b-5p,ACSL4,Arachidonic acid,3,15
+hsa-miR-33b-5p,ABHD2,Arachidonic acid,3,15
+hsa-miR-31-5p,SGPP2,Sphingosine,3,15
+hsa-miR-876-3p,SGPL1,Sphingosine,3,15
+hsa-miR-33b-5p,ACSL1,Arachidonic acid,3,15
+hsa-miR-33b-5p,ACSL3,Arachidonic acid,3,15
+hsa-miR-33b-5p,UGCG,Sphingosine,3,15
+hsa-miR-33b-5p,UGT8,Sphingosine,3,15
+hsa-miR-33b-5p,LPCAT3,Lysophospholipids,3,15
+hsa-miR-33b-5p,SLC27A4,Arachidonic acid,3,15
+hsa-miR-33b-5p,CERS2,Sphingosine,3,15
+hsa-miR-33b-5p,CERK,Sphingosine,3,15
+hsa-miR-33b-5p,SLC27A1,Arachidonic acid,3,15
+hsa-miR-33b-5p,ALOX5,Arachidonic acid,3,15
+hsa-miR-33b-5p,LPCAT2,Lysophospholipids,3,15
+hsa-miR-33b-5p,MBOAT2,Lysophospholipids,3,15
+hsa-miR-33b-5p,MBOAT2,Lysophospholipids,3,15
+hsa-miR-33b-5p,LPCAT4,Lysophospholipids,3,15
+hsa-miR-33b-5p,LPCAT4,Lysophospholipids,3,15
+hsa-miR-31-5p,ASAH1,Sphingosine,3,15
+hsa-miR-31-5p,ACSL4,Arachidonic acid,3,15
+hsa-miR-31-5p,UGCG,Sphingosine,3,15
+hsa-miR-31-5p,SPHK1,Sphingosine,3,15
+hsa-miR-31-5p,PRDX6,Lysophospholipids,3,15
+hsa-miR-31-5p,ABHD2,Arachidonic acid,3,15
+hsa-miR-31-5p,CERS2,Sphingosine,3,15
+hsa-miR-31-5p,CERK,Sphingosine,3,15
+hsa-miR-31-5p,MBOAT7,Lysophospholipids,3,15
+hsa-miR-31-5p,LPCAT1,Lysophospholipids,3,15
+hsa-miR-31-5p,SGPP1,Sphingosine,3,15
+hsa-miR-31-5p,LPCAT2,Lysophospholipids,3,15
+hsa-miR-31-5p,MBOAT2,Lysophospholipids,3,15
+hsa-miR-31-5p,MBOAT2,Lysophospholipids,3,15
+hsa-miR-31-5p,CERS5,Sphingosine,3,15
+hsa-miR-876-3p,CYP2J2,Arachidonic acid,3,15
+hsa-miR-876-3p,ACSL1,Arachidonic acid,3,15
+hsa-miR-876-3p,ACSL3,Arachidonic acid,3,15
+hsa-miR-876-3p,KDSR,Sphingosine,3,15
+hsa-miR-876-3p,UGT8,Sphingosine,3,15
+hsa-miR-876-3p,ABHD2,Arachidonic acid,3,15
+hsa-miR-876-3p,ACSL6,Arachidonic acid,3,15
+hsa-miR-876-3p,ABHD12,Arachidonic acid,3,15
+hsa-miR-876-3p,CERS2,Sphingosine,3,15
+hsa-miR-876-3p,ACSL5,Arachidonic acid,3,15
+hsa-miR-876-3p,CERK,Sphingosine,3,15
+hsa-miR-876-3p,LPCAT1,Lysophospholipids,3,15
+hsa-miR-876-3p,ABHD6,Arachidonic acid,3,15
+hsa-miR-876-3p,MBOAT2,Lysophospholipids,3,15
+hsa-miR-876-3p,MBOAT2,Lysophospholipids,3,15
+hsa-miR-877-5p,SGPL1,Sphingosine,3,14
+hsa-miR-877-5p,ACSL3,Arachidonic acid,3,14
+hsa-miR-877-5p,ACSL4,Arachidonic acid,3,14
+hsa-miR-877-5p,UGCG,Sphingosine,3,14
+hsa-miR-877-5p,SPHK1,Sphingosine,3,14
+hsa-miR-877-5p,LPCAT3,Lysophospholipids,3,14
+hsa-miR-877-5p,CERS2,Sphingosine,3,14
+hsa-miR-877-5p,CERK,Sphingosine,3,14
+hsa-miR-877-5p,MBOAT7,Lysophospholipids,3,14
+hsa-miR-877-5p,SGPP1,Sphingosine,3,14
+hsa-miR-877-5p,SLC27A1,Arachidonic acid,3,14
+hsa-miR-877-5p,SPHK2,Sphingosine,3,14
+hsa-miR-877-5p,CERS5,Sphingosine,3,14
+hsa-miR-877-5p,LPCAT4,Lysophospholipids,3,14
+hsa-miR-877-5p,LPCAT4,Lysophospholipids,3,14
+hsa-miR-146b-5p,CYP2J2,Arachidonic acid,3,12
+hsa-miR-146b-5p,KDSR,Sphingosine,3,12
+hsa-miR-146b-5p,UGCG,Sphingosine,3,12
+hsa-miR-146b-5p,LPCAT3,Lysophospholipids,3,12
+hsa-miR-146b-5p,SLC27A4,Arachidonic acid,3,12
+hsa-miR-146b-5p,ABHD2,Arachidonic acid,3,12
+hsa-miR-146b-5p,ACSL6,Arachidonic acid,3,12
+hsa-miR-146b-5p,ABHD12,Arachidonic acid,3,12
+hsa-miR-146b-5p,CERS2,Sphingosine,3,12
+hsa-miR-146b-5p,SLC27A1,Arachidonic acid,3,12
+hsa-miR-146b-5p,LPCAT4,Lysophospholipids,3,12
+hsa-miR-146b-5p,LPCAT4,Lysophospholipids,3,12
+hsa-miR-146b-5p,GBA1,Sphingosine,3,12
+hsa-miR-185-5p,LPCAT3,Lysophospholipids,3,11
+hsa-miR-185-5p,ALOX12,Arachidonic acid,3,11
+hsa-miR-185-5p,ACSL4,Arachidonic acid,3,11
+hsa-miR-185-5p,UGCG,Sphingosine,3,11
+hsa-miR-185-5p,PRDX6,Lysophospholipids,3,11
+hsa-miR-185-5p,ABHD2,Arachidonic acid,3,11
+hsa-miR-185-5p,CERS2,Sphingosine,3,11
+hsa-miR-185-5p,CERK,Sphingosine,3,11
+hsa-miR-185-5p,MBOAT7,Lysophospholipids,3,11
+hsa-miR-185-5p,LPCAT1,Lysophospholipids,3,11
+hsa-miR-185-5p,ALOX12B,Arachidonic acid,3,11
+hsa-miR-652-3p,ACSL3,Arachidonic acid,3,11
+hsa-miR-652-3p,ABHD2,Arachidonic acid,3,11
+hsa-miR-652-3p,ABHD12,Arachidonic acid,3,11
+hsa-miR-652-3p,CERS2,Sphingosine,3,11
+hsa-miR-652-3p,MBOAT7,Lysophospholipids,3,11
+hsa-miR-652-3p,LPCAT1,Lysophospholipids,3,11
+hsa-miR-652-3p,SGPP1,Sphingosine,3,11
+hsa-miR-652-3p,LPCAT2,Lysophospholipids,3,11
+hsa-miR-652-3p,ABHD6,Arachidonic acid,3,11
+hsa-miR-652-3p,MBOAT2,Lysophospholipids,3,11
+hsa-miR-652-3p,MBOAT2,Lysophospholipids,3,11
+hsa-miR-652-3p,SGPP2,Sphingosine,3,11
+hsa-miR-10b-5p,SGPL1,Sphingosine,3,10
+hsa-miR-10b-5p,ASAH1,Sphingosine,3,10
+hsa-miR-10b-5p,CYP2J2,Arachidonic acid,3,10
+hsa-miR-10b-5p,ACSL1,Arachidonic acid,3,10
+hsa-miR-10b-5p,ACSL3,Arachidonic acid,3,10
+hsa-miR-10b-5p,UGCG,Sphingosine,3,10
+hsa-miR-10b-5p,SPHK1,Sphingosine,3,10
+hsa-miR-10b-5p,CERS2,Sphingosine,3,10
+hsa-miR-10b-5p,ABHD6,Arachidonic acid,3,10
+hsa-miR-10b-5p,MBOAT2,Lysophospholipids,3,10
+hsa-miR-10b-5p,MBOAT2,Lysophospholipids,3,10
+hsa-miR-139-3p,ALOX15,Arachidonic acid,3,7
+hsa-miR-671-5p,ASAH2,Sphingosine,3,7
+hsa-miR-139-3p,ASAH1,Sphingosine,3,7
+hsa-miR-139-3p,ACSL3,Arachidonic acid,3,7
+hsa-miR-139-3p,ABHD2,Arachidonic acid,3,7
+hsa-miR-139-3p,CERS2,Sphingosine,3,7
+hsa-miR-139-3p,ACSL5,Arachidonic acid,3,7
+hsa-miR-139-3p,LPCAT2,Lysophospholipids,3,7
+hsa-miR-671-5p,ACSL4,Arachidonic acid,3,7
+hsa-miR-671-5p,UGCG,Sphingosine,3,7
+hsa-miR-671-5p,SPHK1,Sphingosine,3,7
+hsa-miR-671-5p,ABHD2,Arachidonic acid,3,7
+hsa-miR-671-5p,ACSL6,Arachidonic acid,3,7
+hsa-miR-671-5p,LPCAT4,Lysophospholipids,3,7
+hsa-miR-671-5p,LPCAT4,Lysophospholipids,3,7
+hsa-miR-125a-5p,SGPL1,Sphingosine,3,5
+hsa-miR-505-3p,ACER2,Sphingosine,3,5
+hsa-miR-125a-5p,UGCG,Sphingosine,3,5
+hsa-miR-125a-5p,LPCAT3,Lysophospholipids,3,5
+hsa-miR-125a-5p,SLC27A3,Arachidonic acid,3,5
+hsa-miR-125a-5p,MBOAT2,Lysophospholipids,3,5
+hsa-miR-125a-5p,MBOAT2,Lysophospholipids,3,5
+hsa-miR-126-3p,ACSL1,Arachidonic acid,3,5
+hsa-miR-126-3p,ABHD2,Arachidonic acid,3,5
+hsa-miR-126-3p,ACSL6,Arachidonic acid,3,5
+hsa-miR-126-3p,SGPP1,Sphingosine,3,5
+hsa-miR-126-3p,MBOAT2,Lysophospholipids,3,5
+hsa-miR-126-3p,MBOAT2,Lysophospholipids,3,5
+hsa-miR-505-3p,ACSL1,Arachidonic acid,3,5
+hsa-miR-505-3p,UGCG,Sphingosine,3,5
+hsa-miR-505-3p,ABHD2,Arachidonic acid,3,5
+hsa-miR-505-3p,LPCAT1,Lysophospholipids,3,5
+hsa-miR-641,SGPL1,Sphingosine,3,5
+hsa-miR-641,ACSL4,Arachidonic acid,3,5
+hsa-miR-641,CERS2,Sphingosine,3,5
+hsa-miR-641,MBOAT7,Lysophospholipids,3,5
+hsa-miR-641,MBOAT2,Lysophospholipids,3,5
+hsa-miR-641,MBOAT2,Lysophospholipids,3,5
+hsa-miR-145-5p,ACSL3,Arachidonic acid,2,4
+hsa-miR-145-5p,ACSL4,Arachidonic acid,2,4
+hsa-miR-145-5p,UGCG,Sphingosine,2,4
+hsa-miR-145-5p,CERS2,Sphingosine,2,4
+hsa-let-7f-1-3p,ACSL3,Arachidonic acid,2,4
+hsa-let-7f-1-3p,ACSL4,Arachidonic acid,2,4
+hsa-let-7f-1-3p,UGCG,Sphingosine,2,4
+hsa-let-7f-1-3p,ABHD2,Arachidonic acid,2,4
+hsa-miR-326,SLC27A4,Arachidonic acid,2,2
+hsa-miR-326,MBOAT7,Lysophospholipids,2,2
+hsa-miR-628-3p,ACSL3,Arachidonic acid,2,2
+hsa-miR-628-3p,SGPP1,Sphingosine,2,2
+hsa-miR-136-3p,ASAH1,Sphingosine,2,2
+hsa-miR-136-3p,ACSL6,Arachidonic acid,2,2
+hsa-miR-627-5p,CERS2,Sphingosine,2,2
+hsa-miR-627-5p,MBOAT2,Lysophospholipids,2,2
+hsa-miR-627-5p,MBOAT2,Lysophospholipids,2,2
+hsa-miR-126-5p,UGT8,Sphingosine,1,4
+hsa-miR-126-5p,SGPL1,Sphingosine,1,4
+hsa-miR-126-5p,UGCG,Sphingosine,1,4
+hsa-miR-126-5p,CERS2,Sphingosine,1,4
+hsa-miR-665,SLC27A1,Arachidonic acid,1,2
+hsa-miR-665,ALOX15,Arachidonic acid,1,2
+hsa-miR-1260a,ABHD2,Arachidonic acid,1,2
+hsa-miR-1260a,SLC27A1,Arachidonic acid,1,2
+hsa-miR-590-3p,UGCG,Sphingosine,1,2
+hsa-miR-590-3p,SGPP1,Sphingosine,1,2
+hsa-miR-99b-5p,ACSL3,Arachidonic acid,1,1
