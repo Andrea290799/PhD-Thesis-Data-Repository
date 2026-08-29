@@ -27,7 +27,7 @@
 - **Supplementary Table 2.13 (_go_gsea_mirnas_filt.csv_): Subset of Supplementary Table 6 used for figure representation**. Associated with Figure 2.7.
 - **Supplementary Table 2.14 (_gsea_reg_hubs_filt.csv_): Subset of Supplementary Table 7 used for figure representation**. Associated with Figure 2.7.
 - **Supplementary Table 2.15 (_ora_reg_hubs_filt.csv_): Subset of Supplementary Table 8 used for figure representation**. Associated with Figure 2.7.
-- 
+
 ## Chapter 2.2
 - **Supplementary Table 2.16 (_fusiones_pacientes.csv_): Subject clinical information**. F: Female; M: Male; PLTs: Platelets; WBC: White Blood Cells; MPV: Mean Platelet Volume; *: RNA-seq; +: validation; RC: Rhinoconjunctivitis; AS: Asthma; FVC: Forced Vital Capacity; FEV1: Forced Expiratory Volume in 1 second; nv: Normal Values. Skin Prick Test (mm): Ole, Olive; Phleum, Grass; Cup, Cupressus; Pla, Platanus; Cyn, Cynodon; Fra, Fraxinus; Pro, Profilin; Alt, Alternaria; Dpt, _Dermatophagoides pteronyssinus_; Dfar, _Dermatophagoides farinae_
 
