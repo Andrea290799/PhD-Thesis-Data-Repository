@@ -33,6 +33,6 @@
 
 - **Supplementary Table 2.17: RNA-seq-included subject clinical information**. § Categorical variables (Fisher's Exact Test); ¶ Continuous variables (Kruskal-Wallis test); IQR: Interquartile Range; Freq: frequency; PLTs: platelets; MPV: mean platelet volume; WBC: white blood cells.
 
-- **Supplementary Table 2.18 (_validation_stats.csv_): Validation-included subject clinical information**. § Categorical variables (Fisher's Exact Test); ¶ Continuous variables (Kruskal-Wallis test); IQR: Interquartile Range; Freq: frequency; PLTs: platelets; MPV: mean platelet volume; WBC: white blood cells.
-- **Supplementary Table 2.19 (_primers.csv_): Primers used for fusion transcript validation by qPCR**
-- **Supplementary Table 2.20 (_fusions.csv_): Fusion transcripts candidates per sample**. Spanning reads: number of reads that span a fusion point all on their own (in other words, the read itself has a fusion break point within it); spanning mate pairs: number of pairs of reads where one read maps entirely on the left and the other read maps entirely on the right of the fusion break point.
+- **Supplementary Table 2.18: Validation-included subject clinical information**. § Categorical variables (Fisher's Exact Test); ¶ Continuous variables (Kruskal-Wallis test); IQR: Interquartile Range; Freq: frequency; PLTs: platelets; MPV: mean platelet volume; WBC: white blood cells.
+- **Supplementary Table 2.19: Primers used for fusion transcript validation by qPCR**
+- **Supplementary Table 2.20: Fusion transcripts candidates per sample**. Spanning reads: number of reads that span a fusion point all on their own (in other words, the read itself has a fusion break point within it); spanning mate pairs: number of pairs of reads where one read maps entirely on the left and the other read maps entirely on the right of the fusion break point.
