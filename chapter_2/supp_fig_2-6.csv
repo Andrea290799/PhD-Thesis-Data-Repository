@@ -1,4 +1,4 @@
-Protein,ENTREZID,UniProt ID,log2FC,pval,adj.pval,Significant,Comparison,n comparisons,All comparisons,Regulatory DEms,Absolute value log2FC
+Protein,ENTREZID,UniProt ID,log2FC,pval,Adj.pval,Significant,Comparison,n comparisons,All comparisons,Regulatory DEms,Absolute value log2FC
 HBD,3045,P02042,-5.74,0,0,TRUE,s_c,2,s_c;s_m,,5.74
 WDR5,11091,P61964,5.46,0,0,TRUE,s_c,2,m_c;s_c,hsa-miR-92a-1-5p,5.46
 CTSC,1075,P53634,5.16,0,0,TRUE,m_c,2,m_c;s_c,,5.16
