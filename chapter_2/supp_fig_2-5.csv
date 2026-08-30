@@ -1,4 +1,4 @@
-miRNA,log2FC,AveExpr,t,P.Value,adj.P.Val,B,significant,comparison,n comparisons,all comparisons,abs value log2FC
+miRNA,log2FC,AveExpr,t,P.Value,Adj.P.Val,B,Significant,Comparison,n comparisons,All comparisons,Absolute value log2FC
 hsa-miR-4662b,6.0226,-4.2313,3.2153,0.0069,0.3182,-2.4329,TRUE,s_c,1,s_c,6.0226
 hsa-miR-3130-3p,5.7976,-3.7507,3.2614,0.0063,0.3182,-2.3766,TRUE,s_c,1,s_c,5.7976
 hsa-miR-412-3p,5.6288,-3.5293,2.2614,0.0418,0.988,-4.5912,TRUE,m_c,2,m_c;s_c,5.6288
