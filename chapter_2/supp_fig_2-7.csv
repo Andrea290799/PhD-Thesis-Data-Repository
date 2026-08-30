@@ -1,4 +1,4 @@
-mirna,protein,cor_score,pval,adj_pval,de_mirna,de_prot,both_de,is_target,abs_cor_score
+miRNA,Protein,Correlation score,pval,Adj_pval,DE miRNA,DE protein,Both DE,Is target?,Absolute value corr.score
 hsa-miR-1246,PON1,1,0,0,FALSE,FALSE,FALSE,FALSE,1
 hsa-miR-3121-3p,C8G,-0.9879,0,0.0011,FALSE,FALSE,FALSE,FALSE,0.9879
 hsa-miR-664a-5p,RAB7A,-0.9879,0,0.0011,FALSE,FALSE,FALSE,FALSE,0.9879
