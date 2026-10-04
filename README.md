@@ -18,8 +18,8 @@
 - **Supplementary Table 2.4:** Medication usage (µg d−1) for mild and severe allergic patients.
 - **Supplementary Table 2.5:** Summary of differentially expressed miRNAs (DEMs, |log₂(FC)| ≥ 2 and _p_-value < 0.05) in PL-EVs across the three experimental comparisons. 
 - **Supplementary Table 2.6:** Summary of differentially expressed proteins (DEPs, |log₂(FC)| ≥ 2 and _p_-adjusted value < 0.05) in PL-EVs across the three experimental comparisons. 
-- **Supplementary Table 2.7:** Functional ORA enrichment results for PL-EV differentially expressed molecules. 
-- **Supplementary Table 2.8:** Results of the combined miRNA-protein functional ORA enrichment analysis.
+- **Supplementary Table 2.7:** Results of separate ORAs of the PL-EV differentially expressed molecules. 
+- **Supplementary Table 2.8:** Results of ORA of the combined PL-EV differentially expressed molecules.
 - **Supplementary Table 2.9:** Summary of Spearman correlated (_ρ_ ≥ 0.8 and _p_-adjusted value < 0.05) miRNAs and proteins in PL-EVs across different allergic severity grades. 
 - **Supplementary Table 2.10:** Protein expression-based miRNA GSEA. 
 - **Supplementary Table 2.11:** Reactome enrichment analysis of proteins encoded by target genes of GSEA-enriched miRNAs.
