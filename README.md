@@ -11,29 +11,26 @@
 - **Supplementary Table 1.9:** Validation results in CAMP cohort.
 
 # Chapter 2
+# Chapter 2
 ## Chapter 2.1
-- **Supplementary Table 2.1:** Subject clinical information. 
+- **Supplementary Table 2.1:** Subject clinical information.
 - **Supplementary Table 2.2:** Patient clinical characteristics for small RNA-seq. 
 - **Supplementary Table 2.3:** Patient clinical characteristics for proteomics analysis.
 - **Supplementary Table 2.4:** Medication usage (µg d−1) for mild and severe allergic patients.
-- **Supplementary Table 2.5:** Summary of differentially expressed miRNAs (DEMs, |log₂(FC)| ≥ 2 and _p_-value < 0.05) in PL-EVs across the three experimental comparisons.
+- **Supplementary Table 2.5:** Summary of differentially expressed miRNAs (DEMs, |log₂(FC)| ≥ 2 and _p_-value < 0.05) in PL-EVs across the three experimental comparisons. 
 - **Supplementary Table 2.6:** Summary of differentially expressed proteins (DEPs, |log₂(FC)| ≥ 2 and _p_-adjusted value < 0.05) in PL-EVs across the three experimental comparisons. 
-- **Supplementary Table 2.7:** Summary of Spearman correlated (_ρ_ ≥ 0.8 and _p_-adjusted value < 0.05) miRNAs and proteins in PL-EVs across different allergic severity grades. 
-- **Supplementary Table 2.8:** Functional ORA enrichment results for PL-EV differentially expressed molecules. 
-- **Supplementary Table 2.9:** Results of the joint miRNA-protein functional ORA enrichment analysis. 
-- **Supplementary Table 2.10:** GO term GSEA of miRNAs in PL-EVs. 
-- **Supplementary Table 2.11:** GSEA of miRNA regulatory targets in PL-EVs. 
-- **Supplementary Table 2.12:** ORA of regulated miRNA targets in PL-EVs. 
-- **Supplementary Table 2.13:** Subset of Supplementary Table 6 used for figure representation.
-- **Supplementary Table 2.14:** Subset of Supplementary Table 7 used for figure representation.
-- **Supplementary Table 2.15:** Subset of Supplementary Table 8 used for figure representation.
+- **Supplementary Table 2.7:** Functional ORA enrichment results for PL-EV differentially expressed molecules. 
+-  **Supplementary Table 2.8:** Results of the joint miRNA-protein functional ORA enrichment analysis.
+- **Supplementary Table 2.9:** Summary of Spearman correlated (_ρ_ ≥ 0.8 and _p_-adjusted value < 0.05) miRNAs and proteins in PL-EVs across different allergic severity grades. 
+- **Supplementary Table 2.10:** Protein expression-based miRNA GSEA. 
+- **Supplementary Table 2.11:** Reactome enrichment analysis of proteins encoded by target genes of GSEA-enriched miRNAs.
 
 ## Chapter 2.2
-- **Supplementary Table 2.16:** Subject clinical information. 
-- **Supplementary Table 2.17:** RNA-seq-included subject clinical information. 
-- **Supplementary Table 2.18:** Validation-included subject clinical information.
-- **Supplementary Table 2.19:** Primers used for fusion transcript validation by qPCR.
-- **Supplementary Table 2.20:** Fusion transcripts candidates per sample.
+- **Supplementary Table 2.12:** Subject clinical information.
+- **Supplementary Table 2.13:** RNA-seq-included subject clinical information. 
+- **Supplementary Table 2.14:** Validation-included subject clinical information. 
+- **Supplementary Table 2.15:** Primers used for fusion transcript validation by qPCR.
+- **Supplementary Table 2.16:** Fusion transcripts candidates per sample. 
 
 
 # Chapter 3
