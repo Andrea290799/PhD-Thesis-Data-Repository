@@ -11,7 +11,6 @@
 - **Supplementary Table 1.9:** Validation results in CAMP cohort.
 
 # Chapter 2
-# Chapter 2
 ## Chapter 2.1
 - **Supplementary Table 2.1:** Subject clinical information.
 - **Supplementary Table 2.2:** Patient clinical characteristics for small RNA-seq. 
