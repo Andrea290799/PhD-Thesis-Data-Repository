@@ -1,4 +1,4 @@
-genes,logFC,AveExpr,t,P.Value,adj.P.Val,B,sig,entrezgene_id,comp
+miRNA,log2(FC),AveExpr,t,P.Value,adj.P.Val,B,sig,ENTREZ ID,Comparison
 hsa-let-7a-3p,-0.5691,0.0867,-0.5432,0.5946,0.934,-4.8432,FALSE,406881,s_m
 hsa-let-7a-3p,1.2141,0.0867,1.1654,0.2612,0.739,-5.0937,FALSE,406881,s_c
 hsa-let-7a-3p,1.7832,0.0867,1.3488,0.1964,0.988,-4.5928,FALSE,406881,m_c
