@@ -16,9 +16,9 @@
 - **Supplementary Table 2.2:** Patient clinical characteristics for small RNA-seq. 
 - **Supplementary Table 2.3:** Patient clinical characteristics for proteomics analysis.
 - **Supplementary Table 2.4:** Medication usage (µg d−1) for mild and severe allergic patients.
-- **Supplementary Table 2.5:** miRNA differential expression analysis results. Column "Comparison" indicate the pairwise comparison in which the test was performed (s_m: severe vs. mild; s_c: severe vs. controls; m_c: mild vs. control).
+- **Supplementary Table 2.5:** PL-EV differential expression analysis of miRNAs results. 
 - **Supplementary Table 2.6:** Summary of differentially expressed miRNAs (DEMs, |log₂(FC)| ≥ 2 and _p_-value < 0.05) in PL-EVs across the three experimental comparisons.
-- **Supplementary Table 2.7:** Protein differential expression analysis results. 
+- **Supplementary Table 2.7:** PL-EV differential expression analysis of proteins results. 
 - **Supplementary Table 2.8:** Summary of differentially expressed proteins (DEPs, |log₂(FC)| ≥ 2 and _p_-adjusted value < 0.05) in PL-EVs across the three experimental comparisons. 
 - **Supplementary Table 2.9:** Results of separate enrichment ORAs of the PL-EV differentially expressed molecules. 
 - **Supplementary Table 2.10:** Results of enrichment ORA of the combined PL-EV differentially expressed molecules.
