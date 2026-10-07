@@ -3,11 +3,11 @@
 - **Supplementary Table 2.1: Subject clinical information**. Abbreviations: F, Female; M, Male; AS, Asthma; Cyn, Cynodon; Cup, Cupressus; Dfar, _Dermatophagoides farinae_; Dpt, _Dermatophagoides pteronyssinus_; FEV1, Forced Expiratory Volume in 1 second; FVC, Forced Vital Capacity; Fra, Fraxinus; MPV, Mean Platelet Volume; nv, Normal Values; Ole, Olive; Phleum, Grass; PLTs, Platelets; Pla, Platanus; Pro, Profilin; RC, Rhinoconjunctivitis; WBC, White Blood Cells; Skin Prick Test (mm).
 
 - **Supplementary Table 2.2: Medication usage (µg d−1) for mild and severe allergic patients.**
-- 
+
 - **Supplementary Table 2.3: Log₂ transformed counts per million (CPM) od retained miRNAs.**
-- 
+  
 - **Supplementary Table 2.4: Label-Free Quantification (LFQ) proteomic values (log₂ transformed) of retained proteins.**
-- 
+  
 - **Supplementary Table 2.5: Patient clinical characteristics for small RNA-seq**. Abbreviations: AS, asthma; FEV1, first second of forced respiration; FVC, forced vital capacity; HB, whole blood hemogram; MPV, mean platelet volume; PLT, platelet; PRP, platelet rich plasma; RC, rhinoconjunctivitis; WBC, white blood cells. 
 
 - **Supplementary Table 2.6: Patient clinical characteristics for proteomics analysis**. Abbreviations: AS, asthma; FEV1, first second of forced respiration; FVC, forced vital capacity; HB, whole blood hemogram; MPV, mean platelet volume; PLT, platelet; PRP, platelet rich plasma; RC, rhinoconjunctivitis; WBC, white blood cells.
