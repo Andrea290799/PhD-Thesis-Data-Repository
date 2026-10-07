@@ -12,28 +12,28 @@
 
 # Chapter 2
 ## Chapter 2.1
-- **Supplementary Table 2.1: Subject clinical information**. 
-- **Supplementary Table 2.2: Medication usage (µg d−1) for mild and severe allergic patients.**
-- **Supplementary Table 2.3: Log₂ transformed counts per million (CPM).**
-- **Supplementary Table 2.4: Label-Free Quantification (LFQ) proteomic values (log₂ transformed).**
-- **Supplementary Table 2.5: Patient clinical characteristics for small RNA-seq**. 
-- **Supplementary Table 2.6: Patient clinical characteristics for proteomics analysis**. 
-- **Supplementary Table 2.7: PL-EV differential expression analysis of miRNAs results.** 
-- **Supplementary Table 2.8: Summary of differentially expressed miRNAs (DEMs, |log₂(FC)| ≥ 2 and _p_-value < 0.05) in PL-EVs across the three experimental comparisons**. 
-- **Supplementary Table 2.9: PL-EV differential expression analysis of proteins results**. 
-- **Supplementary Table 2.10: Summary of differentially expressed proteins (DEPs, |log₂(FC)| ≥ 2 and _p_-adjusted value < 0.05) in PL-EVs across the three experimental comparisons**. 
-- **Supplementary Table 2.11: Results of separate enrichment ORAs of the PL-EV differentially expressed molecules**. 
--  **Supplementary Table 2.12: Results of enrichment ORA of the combined PL-EV differentially expressed molecules**. 
-- **Supplementary Table 2.13: Summary of Spearman correlated (_ρ_ ≥ 0.8 and _p_-adjusted value < 0.05) miRNAs and proteins in PL-EVs across different allergic severity grades**. 
-- **Supplementary Table 2.14: Protein expression-based miRNA GSEA.**. 
-- **Supplementary Table 2.15: Reactome enrichment analysis of proteins encoded by target genes of GSEA-enriched miRNAs.** 
+- **Supplementary Table 2.1**: Subject clinical information. 
+- **Supplementary Table 2.2**: Medication usage (µg d−1) for mild and severe allergic patients.
+- **Supplementary Table 2.3**: Log₂ transformed counts per million (CPM) of retained miRNAs.
+- **Supplementary Table 2.4**: Label-Free Quantification (LFQ) proteomic values (log₂ transformed) of retained proteins.
+- **Supplementary Table 2.5**: Patient clinical characteristics for small RNA-seq. 
+- **Supplementary Table 2.6**: Patient clinical characteristics for proteomics analysis. 
+- **Supplementary Table 2.7**: PL-EV differential expression analysis of miRNAs results. 
+- **Supplementary Table 2.8**: Summary of differentially expressed miRNAs (DEMs, |log₂(FC)| ≥ 2 and _p_-value < 0.05) in PL-EVs across the three experimental comparisons. 
+- **Supplementary Table 2.9**: PL-EV differential expression analysis of proteins results. 
+- **Supplementary Table 2.10**: Summary of differentially expressed proteins (DEPs, |log₂(FC)| ≥ 2 and _p_-adjusted value < 0.05) in PL-EVs across the three experimental comparisons. 
+- **Supplementary Table 2.11**: Results of separate enrichment ORAs of the PL-EV differentially expressed molecules. 
+-  **Supplementary Table 2.12**: Results of enrichment ORA of the combined PL-EV differentially expressed molecules. 
+- **Supplementary Table 2.13**: Summary of Spearman correlated (_ρ_ ≥ 0.8 and _p_-adjusted value < 0.05) miRNAs and proteins in PL-EVs across different allergic severity grades. 
+- **Supplementary Table 2.14**: Protein expression-based miRNA GSEA. 
+- **Supplementary Table 2.15**: Reactome enrichment analysis of proteins encoded by target genes of GSEA-enriched miRNAs. 
 
 ## Chapter 2.2
-- **Supplementary Table 2.16: Subject clinical information**. 
-- **Supplementary Table 2.17: RNA-seq-included subject clinical information**. 
-- **Supplementary Table 2.18: Validation-included subject clinical information**. 
-- **Supplementary Table 2.19: Primers used for fusion transcript validation by qPCR**
-- **Supplementary Table 2.20: Fusion transcripts candidates per sample**. 
+- **Supplementary Table 2.16**: Subject clinical information. 
+- **Supplementary Table 2.17**: RNA-seq-included subject clinical information. 
+- **Supplementary Table 2.18**: Validation-included subject clinical information. 
+- **Supplementary Table 2.19**: Primers used for fusion transcript validation by qPCR.
+- **Supplementary Table 2.20**: Fusion transcripts candidates per sample. 
 
 # Chapter 3
 
