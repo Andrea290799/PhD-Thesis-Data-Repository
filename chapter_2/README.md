@@ -4,7 +4,7 @@
 
 - **Supplementary Table 2.2: Medication usage (µg/day) for mild and severe allergic patients.**
 
-- **Supplementary Table 2.3: Log₂ transformed counts per million (CPM) od retained miRNAs.**
+- **Supplementary Table 2.3: Log₂ transformed counts per million (CPM) of retained miRNAs.**
   
 - **Supplementary Table 2.4: Label-Free Quantification (LFQ) proteomic values (log₂ transformed) of retained proteins.**
   
