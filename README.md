@@ -16,8 +16,8 @@
 - **Supplementary Table 2.2**: Medication usage (µg/day) for mild and severe allergic patients.
 - **Supplementary Table 2.3**: Log₂ transformed counts per million (CPM) of retained PL-EV miRNAs.
 - **Supplementary Table 2.4**: Label-Free Quantification (LFQ) proteomic values (log₂ transformed) of retained PL-EV proteins.
-- **Supplementary Table 2.5**: Patient clinical characteristics for transcriptomics analysis. 
-- **Supplementary Table 2.6**: Patient clinical characteristics for proteomics analysis. 
+- **Supplementary Table 2.5**: Patient clinical characteristics for transcriptomic analysis. 
+- **Supplementary Table 2.6**: Patient clinical characteristics for proteomic analysis. 
 - **Supplementary Table 2.7**: PL-EV differential expression analysis of miRNAs results. 
 - **Supplementary Table 2.8**: Summary of differentially expressed miRNAs (DEMs, |log₂(FC)| ≥ 2 and _p_-value < 0.05) in PL-EVs across the three experimental comparisons. 
 - **Supplementary Table 2.9**: PL-EV differential expression analysis of proteins results. 
