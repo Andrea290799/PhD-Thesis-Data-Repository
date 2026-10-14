@@ -19,7 +19,7 @@
 - **Supplementary Table 2.5**: Patient clinical characteristics for transcriptomic analysis. 
 - **Supplementary Table 2.6**: Patient clinical characteristics for proteomic analysis. 
 - **Supplementary Table 2.7**: PL-EV differential expression analysis of miRNAs results. 
-- **Supplementary Table 2.8**: Summary of differentially expressed miRNAs (DEMs, |log₂(FC)| ≥ 2 and _p_-value < 0.05) in PL-EVs across the three experimental comparisons. 
+- **Supplementary Table 2.8**: Summary of differentially expressed miRNAs (DEms, |log₂(FC)| ≥ 2 and _p_-value < 0.05) in PL-EVs across the three experimental comparisons. 
 - **Supplementary Table 2.9**: PL-EV differential expression analysis of proteins results. 
 - **Supplementary Table 2.10**: Summary of differentially expressed proteins (DEPs, |log₂(FC)| ≥ 2 and _p_-adjusted value < 0.05) in PL-EVs across the three experimental comparisons. 
 - **Supplementary Table 2.11**: Results of separate enrichment ORAs of the PL-EV differentially expressed molecules. 
