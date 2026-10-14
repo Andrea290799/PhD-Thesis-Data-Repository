@@ -8,9 +8,9 @@
   
 - **Supplementary Table 2.4: Label-Free Quantification (LFQ) proteomic values (log₂ transformed) of retained PL-EV proteins.**
   
-- **Supplementary Table 2.5: Patient clinical characteristics for transcriptomics analysis**. Abbreviations: AS, asthma; FEV1, first second of forced respiration; FVC, forced vital capacity; HB, whole blood hemogram; MPV, mean platelet volume; PLT, platelet; PRP, platelet rich plasma; RC, rhinoconjunctivitis; WBC, white blood cells. 
+- **Supplementary Table 2.5: Patient clinical characteristics for transcriptomic analysis**. Abbreviations: AS, asthma; FEV1, first second of forced respiration; FVC, forced vital capacity; HB, whole blood hemogram; MPV, mean platelet volume; PLT, platelet; PRP, platelet rich plasma; RC, rhinoconjunctivitis; WBC, white blood cells. 
 
-- **Supplementary Table 2.6: Patient clinical characteristics for proteomics analysis**. Abbreviations: AS, asthma; FEV1, first second of forced respiration; FVC, forced vital capacity; HB, whole blood hemogram; MPV, mean platelet volume; PLT, platelet; PRP, platelet rich plasma; RC, rhinoconjunctivitis; WBC, white blood cells.
+- **Supplementary Table 2.6: Patient clinical characteristics for proteomic analysis**. Abbreviations: AS, asthma; FEV1, first second of forced respiration; FVC, forced vital capacity; HB, whole blood hemogram; MPV, mean platelet volume; PLT, platelet; PRP, platelet rich plasma; RC, rhinoconjunctivitis; WBC, white blood cells.
 
 - **Supplementary Table 2.7: PL-EV differential expression analysis of miRNAs results.** Column "Comparison" indicate the pairwise comparison in which the test was performed (s_m: severe vs. mild; s_c: severe vs. controls; m_c: mild vs. control).
 
